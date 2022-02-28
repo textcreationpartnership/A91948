@@ -1,0 +1,1002 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A faithfull friend true to the soul or The soules self-examination, preparing it self for the great triall of life or death eternall in the other world, in 86. quæries. Whereunto is added, the Christian jewell of faith, or the ready way to beleeve and be saved. By Timothy Rogers, minister of the church at Chappell in Essex.</title>
+            <author>Rogers, Timothy, 1598-1650?.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 110 KB of XML-encoded text transcribed from 98 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91948</idno>
+            <idno type="STC">Wing R1854</idno>
+            <idno type="STC">Wing R1853</idno>
+            <idno type="STC">Thomason E1390_1</idno>
+            <idno type="STC">Thomason E1390_2</idno>
+            <idno type="STC">ESTC R209369</idno>
+            <idno type="EEBO-CITATION">99868249</idno>
+            <idno type="PROQUEST">99868249</idno>
+            <idno type="VID">169905</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91948)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169905)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 181:E1390[1], 181:E1390[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A faithfull friend true to the soul or The soules self-examination, preparing it self for the great triall of life or death eternall in the other world, in 86. quæries. Whereunto is added, the Christian jewell of faith, or the ready way to beleeve and be saved. By Timothy Rogers, minister of the church at Chappell in Essex.</title>
+                  <author>Rogers, Timothy, 1598-1650?.</author>
+               </titleStmt>
+               <extent>[12], 164, [10], 183, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Brewster and G. Sawbridge at the Bible on Ludgate-Hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bound with his "The Christians jewell of faith", which has separate register and pagination and which may also have been issued separately.</note>
+                  <note>The Christians jewell of faith = Thomason E.1390[2].</note>
+                  <note>Annotation on Thomason copy: "ffebr. 4 1652"; 3 in imprint date crossed through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+               <term>Soul --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169905:1" rendition="simple:additions"/>
+            <p>THE CHRISTIANS JEWELL OF FAITH. OR, The ready way to Be<g ref="char:EOLhyphen"/>leeve and be ſaved.</p>
+            <p>Wherein is the * Myſterie of Faith laid open: [* 1 <hi>Tim.</hi> 3.9.]</p>
+            <p>By <hi>Timothy Rogers,</hi> Miniſter of the Church at <hi>Chappell</hi> in <hi>Eſſex.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Mark 5.36.</hi>
+               </bibl> Be not affraid, but beleeve.</q>
+            <q>
+               <bibl>
+                  <hi>Luke 7.50.</hi>
+               </bibl> Thy Faith hath ſaved thee, goe in peace.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>E. Brewſter,</hi> and <hi>G. Saw<g ref="char:EOLhyphen"/>bridge</hi> at the Bible on <hi>Ludgate-Hill.</hi> 1653.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:169905:2"/>
+            <pb facs="tcp:169905:2"/>
+            <head>The Contents of the ſeverall Chap<g ref="char:EOLhyphen"/>ters contained in this Book.</head>
+            <list>
+               <item>Saving Belief <hi>What it is.</hi> Chap. 1</item>
+               <item>Saving Belief <hi>How it is called.</hi> Chap. 2</item>
+               <item>Saving Belief <hi>How the Law workes toward it.</hi> Cha. 3</item>
+               <item>Saving Belief <hi>How the Goſpell works to bring to it.</hi> Cha. 4</item>
+               <item>Saving Belief <hi>Queſtions reſolved about the Goſpels wor<g ref="char:EOLhyphen"/>king of it.</hi> Cha. 5</item>
+               <item>Saving Belief <hi>The true Grounds of it.</hi> Cha. 6</item>
+               <item>Saving Belief <hi>Objections anſwered that hold back (one throughly humbled) from it.</hi> Cha. 7</item>
+               <item>Saving Belief <hi>The main Lets to the getting of it.</hi> Chap. 8</item>
+               <item>Saving Belief <hi>Helps for diſtreſſed ſoules to it.</hi> Chap. 9</item>
+               <item>Saving Belief <hi>The ſeat or ſubject of it.</hi> Chap. 10</item>
+               <item>Saving Belief <hi>The immediat effects following it.</hi> Chap. 11</item>
+               <item>Saving Belief <hi>The Excellencie of it.</hi> Chap. 12</item>
+               <item>Saving Belief <hi>The Neceſſity of it.</hi> Chap. 13</item>
+               <item>Saving Belief 14. <hi>Sorts of profeſſors that want it.</hi> Cha. 14</item>
+               <item>Saving Belief <hi>Generall notes of triall whereby to know it.</hi> Chap. 15</item>
+               <item>Saving Belief <hi>More ſpeciall notes whereby it may be tryed, and known.</hi> Chap. 16</item>
+               <item>Saving Belief <hi>The degrees of it.</hi> Chap. 17</item>
+               <item>Saving Belief <hi>What we muſt doe with it, when we have it.</hi> Chap. 18</item>
+               <item>Saving Belief <hi>What we muſt do when we want it, and more of it deſired.</hi> Chap. 19</item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169905:3"/>
+            <head>Chriſtian Reader.</head>
+            <p>THe ſame author hath another work entituled The righteou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mans Evidence for heaven, Or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> treatiſe ſhewing how every one while he lives here may certainly know what ſhall become of him af<g ref="char:EOLhyphen"/>ter his departure out of this life.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169905:3"/>
+            <head>TO THE Right Worſhipfull M<hi rend="sup">r</hi> JOHN EDEN OF <hi>Ballindon Hall</hi> in <hi>Eſſex</hi> Eſquire, my godly Patrone.</head>
+            <opener>
+               <salute>Right Worſhipfull,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>AVING</hi> this ſmall Treatiſe lying dead by me, or at leaſt aſleep; and be<g ref="char:EOLhyphen"/>ing provoked to give it more roome and ſome breath, that
+<pb facs="tcp:169905:4"/>it might be awakened by the Preſse and Printers hand to come to light; I could not be<g ref="char:EOLhyphen"/>thinke my ſelfe to make De<g ref="char:EOLhyphen"/>dication of it (as the uſe is) to any one more fitly then your ſelfe, and that for theſe reaſons: Firſt, you have been a good Diſciple in the ſchoole of Piety from your very non-age, and education by that pi<g ref="char:EOLhyphen"/>ous Lady your ancient Mo<g ref="char:EOLhyphen"/>ther (whom I much honour) with the reſt of that vertu<g ref="char:EOLhyphen"/>ous brood, ſome of whom it was my lot to ſeale up in their ſepulchres, beſides ſome of your owne. Secondly, you have been a conſtant hearer of theſe and other my Colla<g ref="char:EOLhyphen"/>tions
+<pb facs="tcp:169905:4"/>when you have been in theſe parts. Thirdly, you are my loving Patrone, by whoſe meanes and instigation, ac<g ref="char:EOLhyphen"/>cording to the deſire of the Congregation, I was (ſome yeares ſince) brought to this place. Fourthly, I therefore am peculiarly ingaged unto you, and love not to live or dye wholly in debt, (I look to lay downe my tabernacle daily) accept, I pray, this ſmall Teſtimony of Grati<g ref="char:EOLhyphen"/>tude: I muſt ſay as <hi>Peter,</hi> Act. <hi>3.6.</hi> Silver and gold have I not, but ſuch as I have give I you, a little plaine fruit of my owne grafting, I therefore dedi<g ref="char:EOLhyphen"/>cate
+<pb facs="tcp:169905:5"/>it unto your ſelfe, and by you to my well-affected friends, my conſtant, conſcio<g ref="char:EOLhyphen"/>nable, and profitable hea<g ref="char:EOLhyphen"/>rers: (Never more need of Faith and living by it, then in this terrible tempeſt) the bleſsing of the Lord goe with it.</p>
+            <closer>
+               <signed>
+                  <hi>Yours faithfully obliged in the Lord,</hi> Timothy Rogers.</signed>
+            </closer>
+            <pb facs="tcp:169905:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:169905:6"/>
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed>JA. CRANFORD.</signed>
+               <date>
+                  <hi>August.</hi> 12. 1644.</date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169905:6"/>
+            <head>SAVING-BELIEF: <hi>OR,</hi> The Ready and Right way to beleeve and be ſaved.</head>
+            <div n="1" type="chapter">
+               <head>CHAP 1. <hi>What it is; and the Definiti<g ref="char:EOLhyphen"/>on of it explained.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat every one muſt beleeve that would be ſaved, is a truth out of que<g ref="char:EOLhyphen"/>ſtion, confeſſed by all that profeſſe <hi>Christ;</hi> but yet every kind of Beleeving is not ſaving,
+<note place="margin">Generall and com<g ref="char:EOLhyphen"/>mon faith</note> 
+                  <hi>for the
+<pb n="2" facs="tcp:169905:7"/>Devills beleeve,</hi> Iam 2.19. and <hi>Simon Magus beleeved</hi> Acts. 8.13. <hi>and was bapti<g ref="char:EOLhyphen"/>zed,</hi> and yet S<hi rend="sup">t</hi> 
+                  <hi>Peter</hi> ſaith, he was <hi>in the gall of bitter<g ref="char:EOLhyphen"/>nes and bond of iniquity:</hi> now then what kind of Beliefe it is that will ſave, and that onely, this <hi>Trea<g ref="char:EOLhyphen"/>tiſe</hi> ſhewes; not therefore to meddle with <hi>hiſtoricall temporarie or miraculous faith,</hi> which are not ſa<g ref="char:EOLhyphen"/>ving.
+<note place="margin">Saving beliefe. The defi<g ref="char:EOLhyphen"/>nition of it.</note>
+               </p>
+               <p>What is true ſaving <hi>Beliefe?</hi>
+               </p>
+               <p>A right applying of <hi>Chriſt</hi> to ones ſelfe: <hi>viz.</hi> by an hearty accepting of him, and a true perſwaſi<g ref="char:EOLhyphen"/>on
+<pb n="3" facs="tcp:169905:7"/>of our Soules wellfare by him.</p>
+               <p n="1">1 For better underſtan<g ref="char:EOLhyphen"/>ding whereof. 1 I ſay it's <hi>an applying of Christ,</hi> for as Manna did no good unleſſe it were fetcht home, and fed upon, nor Phyſick doth good without applying, no more doth <hi>Christ</hi> unleſſe he be applyed to the ſoule.</p>
+               <p n="2">2 It's an applying <hi>to ones ſelfe,</hi> for to apply <hi>Chriſt</hi> to another, as when you are perſwaded of ſuch a ones Salvation by him, will no more ſave thy ſoule then another
+<pb n="4" facs="tcp:169905:8"/>bodies feeding will nou<g ref="char:EOLhyphen"/>riſh thee, or preſerve thy life.</p>
+               <p n="3">3 It's <hi>a right applying,</hi> for if it be wrong, it ſaves not.</p>
+               <p>
+                  <hi>Q.</hi> How may one know, whether it be a right applying of <hi>Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> If it ſet an im<g ref="char:EOLhyphen"/>preſſion of the likeneſſe of <hi>Chriſt</hi> on the ſoule, ſo as <hi>Chriſt</hi> is
+<note place="margin">
+                     <hi>a Gal.</hi> 4.19.</note> formed in it, and it becomes like unto him in holyneſſe and true righteouſneſſe; as a ſeale being rightly ſet and ap<g ref="char:EOLhyphen"/>plyed to the wax leaves the right print of it ſelfe, behind it.</p>
+               <p n="2">
+                  <pb n="5" facs="tcp:169905:8"/>2 If it apply not a bare <hi>Christ,</hi> but <hi>Christ</hi> with his benefits, and one of them, as well as ano<g ref="char:EOLhyphen"/>ther; holineſſe and mor<g ref="char:EOLhyphen"/>tification, <hi>Rom.</hi> 6.4. as well as pardon of ſinnes and mercy.</p>
+               <p n="3">3 If it make us let goe our hould of ſinne: as a full hand muſt firſt open and let goe what is in it, before it can take hould of a better thing.</p>
+               <p>And this is the defini<g ref="char:EOLhyphen"/>tion of true faith; but I further add for Explana<g ref="char:EOLhyphen"/>tion, <hi>[by an hearty accep<g ref="char:EOLhyphen"/>ting of him and a true per<g ref="char:EOLhyphen"/>ſwaſion of our ſoules welfare
+<pb n="6" facs="tcp:169905:9"/>by him]</hi> becauſe an hearty and unfained accepting of <hi>Chriſt</hi> is the true concep<g ref="char:EOLhyphen"/>tion of faith, and a true perſwaſion is the birth of it, as ſhall be further ſhew<g ref="char:EOLhyphen"/>ed. <hi>Chap.</hi> 5.</p>
+               <p>I ſay alſo a true per<g ref="char:EOLhyphen"/>ſwaſion, for in a Tempo<g ref="char:EOLhyphen"/>rarie Hypocrite is found a particular perſwaſion or applying to himſelfe, but it's not true.</p>
+               <p>
+                  <hi>Q.</hi> Is not true beleeving a reſting upon <hi>Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; for a perſwa<g ref="char:EOLhyphen"/>ſion includes a reſting on him; and a reſting on him, implyes ſome (at leaſt implicite) perſwa<g ref="char:EOLhyphen"/>ſion.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="7" facs="tcp:169905:9"/>
+               <head>CHAP. 2. <hi>How it is called and the working cauſes thereof.</hi>
+               </head>
+               <p>
+                  <hi>SAving beliefe,</hi> to diffe<g ref="char:EOLhyphen"/>rence it from that beleeving that will not ſave, is called by peculiar names, ſetting out the dignity of it, as <hi>ſaith of Gods elect.</hi> Tit. 1.1. <hi>the faith of Saints.</hi> Rev. 13.10. <hi>the faith of Ieſus.</hi> Rev. 14.12. <hi>moſt holy faith.</hi> Iude. 20. <hi>worke of faith with power.</hi> 2 Theſſ. 1.11. <hi>faith unfained.</hi> 1. Tim. 1.5. <hi>Precious faith.</hi> 2. Pet. 1.1. No other faith can be properly ſo called.</p>
+               <pb n="8" facs="tcp:169905:10"/>
+               <p>The working cauſes there of are either princi<g ref="char:EOLhyphen"/>pall or in ſtrumentall: the principall is God him<g ref="char:EOLhyphen"/>ſelfe. <hi>Faith of the opera<g ref="char:EOLhyphen"/>tion of God.</hi> Col. 2.12. and therefore the bleſſed work of <hi>Father, Son and Holy Ghoſt.</hi>
+               </p>
+               <p>Loe how goodly a thing it is, as a rare peece of a famous Artiſt.</p>
+               <p>The inſtrumentall cau<g ref="char:EOLhyphen"/>ſes are Gods Miniſters with the word preached in their mouthes; <hi>Faith cometh by hearing, and hea<g ref="char:EOLhyphen"/>ring by the word of God.</hi> Rom. 10.17. <hi>and how ſhall they heare without a
+<pb n="9" facs="tcp:169905:10"/>Preacher. verſe.</hi> 14. for though God could work faith in men without this, yet he will not; as he could, if it pleaſed him, preſerve our life with<g ref="char:EOLhyphen"/>out food, but we doe not therefore expect, hee will doe it, and ſo refuſe our food, becauſe he can do it, but rather conſider what he will doe.</p>
+               <p>There are two parts of Gods Word, <hi>Lawe and Goſpell,</hi> they both con<g ref="char:EOLhyphen"/>duce to the work of faith, and goe to the making up of ſaving beliefe the Law, begins the worke, the Go<g ref="char:EOLhyphen"/>ſpell finiſheth it: the Law
+<pb n="10" facs="tcp:169905:11"/>makes way for <hi>Christ</hi> (and therefore is called <hi>our ſchoolemaſter to bring us to Chriſt.</hi> Gal. 3.24.) the Goſpell brings him into the ſoule, and brings the ſoule into ſaving acquain<g ref="char:EOLhyphen"/>tance with him.</p>
+               <p>
+                  <hi>Q.</hi> May not one be<g ref="char:EOLhyphen"/>leeve rightly without the working of the Law firſt?</p>
+               <p>
+                  <hi>A.</hi> No: 1. Becauſe no part of Gods Word is in vaine, but ſerves to ſpe<g ref="char:EOLhyphen"/>ciall uſe to bring men to ſalvation.</p>
+               <p n="2">2. This were to have the work finiſhed before it be begun, for the Law begins the work, <hi>and
+<pb n="11" facs="tcp:169905:11"/>Chriſt is the end of the law.</hi> Rom. 10.4.</p>
+               <p n="3">3. They that beleeve by the <hi>Goſpell</hi> without the working of the Law firſt doe but as one that is full fed, having a dainty mor<g ref="char:EOLhyphen"/>ſell offered him, takes it indeed, but layes it by: or puts it in his pocket, not receiving it into the Stomack to nouriſh him.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. 3. <hi>How the Law workes to<g ref="char:EOLhyphen"/>wards the bringing us to beleeve.</hi>
+               </head>
+               <p n="1">1. The Law firſt en<g ref="char:EOLhyphen"/>lightens us, and
+<pb n="12" facs="tcp:169905:12"/>makes us ſee our miſery. <hi>Rom.</hi> 3.20.</p>
+               <p n="2">2. It wounds us, and makes us feelingly affe<g ref="char:EOLhyphen"/>cted with our miſery, and therefore is ſaid to ſlay us. <hi>Rom.</hi> 7.9, 11. by both theſe it is ſaid to humble us.</p>
+               <p>
+                  <hi>Q.</hi> Muſt one needs be wounded and humbled, diſtreſſed in ſoule for his ſinne and miſery?</p>
+               <p>
+                  <hi>A.</hi> Yes; there cannot be healing before there be a wound, nor a cure wrought till the patient be willing to put himſelfe into the Phiſitions hands to uſe his skill; he can<g ref="char:EOLhyphen"/>not be willing till he ſee
+<pb n="13" facs="tcp:169905:12"/>and feele his danger of death; To ſee our miſe<g ref="char:EOLhyphen"/>ry is to be loſt in our ſelves; to feele it is to be ſick, <hi>Chriſt</hi> came to ſeeke and ſave them that are loſt. <hi>Luke.</hi> 19.10. and to be a phyſitian to thoſe that are ſick (of their ſins) <hi>Mark.</hi> 2.17. and to heale the broken hearted, and bruiſed ones. <hi>Luke.</hi> 4.18. and none els.</p>
+               <p n="2">2. Morever it is a con<g ref="char:EOLhyphen"/>dition which God requi<g ref="char:EOLhyphen"/>reth, <hi>Humble your ſelves in the ſight of the Lord, and he ſhall lift you up.</hi> Iam. 4.10. and <hi>verſe.</hi> 9. <hi>Be afflicted and mourne and weepe,</hi> &amp;c.</p>
+               <p n="3">
+                  <pb n="14" facs="tcp:169905:13"/>3. It is the way to have a pardon, as a con<g ref="char:EOLhyphen"/>demned ſubject or leud child muſt firſt humble themſelves before they be taken to favour.</p>
+               <p n="4">4. It makes us willing, that <hi>Chriſt</hi> ſhould take us up and beare us, or doe a<g ref="char:EOLhyphen"/>ny thing with us, as <hi>Saul. Acts.</hi> 9.6. <hi>Lord what wilt thou have me to doe?</hi> As a wearied Traveller ready to ſinke under his burden is willing and thankefull to be taken up and carried, whereas a freſh and luſty Gentleman, that walkes upon his pleaſure, ſcornes to be carried on a porters
+<pb n="15" facs="tcp:169905:13"/>back, therefore of neceſſi<g ref="char:EOLhyphen"/>ty we muſt be firſt hum<g ref="char:EOLhyphen"/>bled before there can be any good done on us, for beleeving to Salvation.</p>
+               <p>The law (I ſay) by in<g ref="char:EOLhyphen"/>lightning and wounding the ſoule is ſaid to hum<g ref="char:EOLhyphen"/>ble us, of which legall hu<g ref="char:EOLhyphen"/>miliation, are divers ſteps and degrees; for the law makes us ſee, and certain<g ref="char:EOLhyphen"/>ly beleeve.</p>
+               <p n="1">1. That we are unbe<g ref="char:EOLhyphen"/>leevers; for none will ſeeke after beleeving, that thinkes he hath it alrea<g ref="char:EOLhyphen"/>dy.</p>
+               <p n="2">2. Our wofull caſe and danger therfore, <hi>for
+<pb n="16" facs="tcp:169905:14"/>he that beleeveth not ſhall be damned.</hi> Mark. 16.16. yea is condemned alrea<g ref="char:EOLhyphen"/>dy. <hi>Iohn.</hi> 3.18.</p>
+               <p n="3">3. That we are nothing but ſinne and vileneſſe. <hi>Tit.</hi> 1.15, 16. all we have, or ever have done, being without faith; and therefore no better then
+<note n="*" place="margin">Splendida peccata.</note> matter of damnation diſpleaſing God. <hi>Heb.</hi> 11.6.</p>
+               <p n="4">4. It makes us abhorre, and loath our ſelves ther<g ref="char:EOLhyphen"/>fore. <hi>Ezek.</hi> 20.43.</p>
+               <p n="5">5. Bitterly to lament for our loſt miſerable ſoule, as <hi>Zach.</hi> 12.10.</p>
+               <p n="6">6. To be weary of our
+<pb n="17" facs="tcp:169905:14"/>ſinnes (and therefore would be ridd of them) and weary of our ſelves, and therefore cannot in<g ref="char:EOLhyphen"/>dure in that eſtate where<g ref="char:EOLhyphen"/>in we are. <hi>Math.</hi> 11.28. <hi>You that are weary come to me,</hi> ſaith Chriſt.</p>
+               <p n="7">7. To be willing to forgoe our ſinnes, and doe any thing, God ſhall bid us. <hi>Acts.</hi> 9.6. yet not out of true hatred of ſin, or love to God (that the law workes not) but out of meere terrour and feare of hell.</p>
+               <p n="8">8. To deſpaire of our ſelves, or as
+<note n="*" place="margin">Homil. Falling from God Firſt part.</note> touching any hope <hi>that may be in our
+<pb n="18" facs="tcp:169905:15"/>ſelves</hi> or any poſſibility to helpe our ſelves, but that all we can doe rather in<g ref="char:EOLhyphen"/>creaſeth Gods wrath, a<g ref="char:EOLhyphen"/>gainſt us, being ſtill with<g ref="char:EOLhyphen"/>out faith.</p>
+               <p>But note that this deſ<g ref="char:EOLhyphen"/>pairing of ourſelves is not the deſpairing of the grace of God; which faith comming in upon it, pre<g ref="char:EOLhyphen"/>vents, and keepes all thoſe from, in whom it ſuccee<g ref="char:EOLhyphen"/>deth; for the Law now hath brought the ſoule to the mouth of the gulfe of deſpaire ready to be ſwal<g ref="char:EOLhyphen"/>lowed up; but here comes in faith in his proper place to doe the ſoule good in
+<pb n="19" facs="tcp:169905:15"/>all ſuch as attaine it, who els would wholy deſpaire as <hi>Iudas.</hi>
+               </p>
+               <p n="1">1. <hi>Ob.</hi> You named in the 4. and 7. places an ab<g ref="char:EOLhyphen"/>horring our ſelves for our ſinnes and a willingnes to forgoe them <hi>&amp;c.</hi> how may theſe be before faith?</p>
+               <p>
+                  <hi>Anſw.</hi> There is a kind of abhorring of our ſelves and our ſinnes and a wil<g ref="char:EOLhyphen"/>lingnes to be rid of them before faith wrought, but not out of love to God or hatred of ſinne, as it is ſinne and unrighteouſnes contrary to the pure na<g ref="char:EOLhyphen"/>ture of God, but as it is our torment; as a rare delici<g ref="char:EOLhyphen"/>ous
+<pb n="20" facs="tcp:169905:16"/>confection that excee<g ref="char:EOLhyphen"/>dingly delighteth the taſt, yet hath a malignant qua<g ref="char:EOLhyphen"/>lity, and being eaten, tor<g ref="char:EOLhyphen"/>ments extreamely and burnes the bowells, the party tormented therewith, abhorres to ſee, or thinke of it, and cryes away with it, fling it into the fire, and yet it it as pleaſant to his taſt as it was before: and as it was with <hi>Iudas</hi> his thirty peeces when his conſci<g ref="char:EOLhyphen"/>ence was tormented.</p>
+               <p n="2">2 <hi>Ob.</hi> You ſpeake of ſeeing and feeling our mi<g ref="char:EOLhyphen"/>ſery, muſt there needs be both theſe, will not ſee<g ref="char:EOLhyphen"/>ing
+<pb n="21" facs="tcp:169905:16"/>alone ſerve turne?</p>
+               <p>
+                  <hi>Anſw.</hi> No. Our ſee<g ref="char:EOLhyphen"/>ing of our ſoules miſery, is the Lawes inlightning us; Our feeling it, is the wound it gives us, as <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> hearers were pricked in their hearts <hi>Acts.</hi> 2.37. Many onely ſeeing their miſery, but their hearts not wounded with a ſenſe of it, go on ſtill in their naturall ſtate, and come not to the honour to be true beleevers in <hi>Chriſt;</hi> as one may ſee his dange<g ref="char:EOLhyphen"/>rous ſoare and Vlcer ha<g ref="char:EOLhyphen"/>zarding his life, and the Chirurgion comming to him with his lancing
+<pb n="22" facs="tcp:169905:17"/>knife, but yet unleſſe he indure the launcing, and feele the ſmart, he cannot be cured.</p>
+               <p>Thus the Law having done its part in humbling the ſoule both by inlight<g ref="char:EOLhyphen"/>ning and wounding it in thoſe eight particulars aforementioned, next comes in the
+<note n="*" place="margin">
+                     <hi>Eph.</hi> 1.13.</note> Goſpell to doe its part.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. 4. <hi>How the Goſpell workes to the bringing us to be<g ref="char:EOLhyphen"/>leeve ſavingly in Chriſt.</hi>
+               </head>
+               <p>THe working of the Goſpell in this hum<g ref="char:EOLhyphen"/>bled ſoule conſiſteth in
+<pb n="23" facs="tcp:169905:17"/>eight things alſo for the bringing forth of faith in him.</p>
+               <p n="1">1. It inlightens him, to ſee two things.</p>
+               <p>Firſt that God of his meere good will and mer<g ref="char:EOLhyphen"/>cy to miſerable loſt ſin<g ref="char:EOLhyphen"/>ners hath provided them a ſufficient meanes, <hi>viz. Chriſt</hi> whereby to be ſa<g ref="char:EOLhyphen"/>ved and delivered
+<note n="*" place="margin">1 <hi>Theſ.</hi> 5.9.</note> from his eternall wrath. <hi>Iohn.</hi> 3.17. 1 <hi>Iohn.</hi> 2.2. not excluding any that will accept of it. <hi>Revel.</hi> 22.17. upon Gods termes; and in his order; that is by being firſt humbled and ſo made capeable thereof.</p>
+               <pb n="24" facs="tcp:169905:18"/>
+               <p>Secondly. That God is as willing to ſhew him mercy as any other <hi>Ioh.</hi> 3.16. yea will doe it, and ſave him by this meanes, <hi>Chriſt;</hi> if he will but truſt God, on his word, and beleeve this his goodwill to him, and that he hath provided this meanes for him, ſo that if he be not ſaved, it is becauſe he would not truſt God; but thinkes that God meanes not ſo well to him, as he ſpeakes. <hi>Iohn.</hi> 3.16. <hi>That whoſoever beleeveth in him ſhall not periſh.</hi>
+               </p>
+               <p>Thus the doctrine of the Goſpell inlightning
+<pb n="25" facs="tcp:169905:18"/>the <hi>humbled ſinner,</hi> is as a voice that comes from the Holy One, ſaying, Heare thou poore Soule &amp; hearken unto me, now thou canſt doe nothing for thy ſelfe, ſee what God is willing to doe for thee: hereupon followes.</p>
+               <p n="2">2. Admiration, where<g ref="char:EOLhyphen"/>with he is ſo rapt, as that it is with him, as it was with the Church, upon their ſo ſtrange Returne out of Captivitie,
+<note place="margin">Pſal. 126.1.</note> they <hi>were like them that dreame.</hi> He wonders much at this a thing ſo admirable, that God ſhould offer a Re<g ref="char:EOLhyphen"/>medie (and that ſuch an
+<pb n="26" facs="tcp:169905:19"/>one) to man ſo great a ſin<g ref="char:EOLhyphen"/>ner, whereas not one of the Angels that ſinned ever had ſuch a favour of<g ref="char:EOLhyphen"/>fered them, though there be millions of them, this (I ſay) is wonderfull to him, though as yet, he be<g ref="char:EOLhyphen"/>leeves not this Remedie to himſelfe, but under<g ref="char:EOLhyphen"/>ſtands a poſſibilitie wher<g ref="char:EOLhyphen"/>in he may be included; as to a miſerable captive, the news of a releaſe for ſome of the Company is admi<g ref="char:EOLhyphen"/>rable to him, upon the ge<g ref="char:EOLhyphen"/>nerall intelligence, though as yet he know not whe<g ref="char:EOLhyphen"/>ther he be one of them.</p>
+               <p n="3">3. Conviction, the Go<g ref="char:EOLhyphen"/>ſpel
+<pb n="27" facs="tcp:169905:19"/>holds him to it, whereas he goes about to put it from himſelfe: O thinks he, this is good in<g ref="char:EOLhyphen"/>deed, but too good for me; that is not for me, I am ſo great a ſinner; nay, ſaith the Goſpel, <hi>Whoſoe<g ref="char:EOLhyphen"/>ver beleeveth ſhall not pe<g ref="char:EOLhyphen"/>riſh,</hi> and therefore (if thou wilt) that is for thee as well as any other, unleſſe by not beleeving it, thou deprive thy ſelfe of it, and a <hi>broken heart,
+<note place="margin">Pſal. 51.17.</note> God will not deſpiſe,</hi> (being offered to him) ſuch an one is thy heart.</p>
+               <p n="4">4. Conſultation. He fals to reaſoning with
+<pb n="28" facs="tcp:169905:20"/>himſelfe, what he were beſt to doe. What (thinks he) doth God indeed bid me beleeve his good will to me by Chriſt, and to be perſwaded thereof? yes: and gives me good leave and warrant? yes: What, God to ſhew me mercie? Why to me? What is in me? What reaſon have I to be ſo per<g ref="char:EOLhyphen"/>ſwaded? none at all, but onely becauſe God bids me; that is great reaſon: What danger is't, if I do not? oh the greateſt ſin of unbelief and contempt of the Grace of God, thus offered me, and it will be
+<pb n="29" facs="tcp:169905:20"/>unrecoverable loſſe of my Soule: What danger is't if I doe now beleeve this his good will and mea<g ref="char:EOLhyphen"/>ning to me by Chriſt? None at all, but ſhall pleaſe God beſt, and ſhall find ſure mercie and Sal<g ref="char:EOLhyphen"/>vation.</p>
+               <p n="5">5. Reſolution. He comes to reſolve, and puts him<g ref="char:EOLhyphen"/>ſelfe upon this point with unfained Reſolution thus to doe, he gives his mind and inclines his heart to it, thus; well then, ſeeing it pleaſeth God beſt, and is beſt for my Soule, and no danger in it (I being right<g ref="char:EOLhyphen"/>ly humbled) I will then
+<pb n="30" facs="tcp:169905:21"/>venture my Soule upon Gods word and bidding; and reſt perſwaded, that he meanes me well, even me and my poore ſoule by Chriſt. Yet now there is difference between this his Reſolution and his doing of it, which fol<g ref="char:EOLhyphen"/>lowes afterward.</p>
+               <p n="6">6. Longing affection: finding for all this his Re<g ref="char:EOLhyphen"/>ſolution, how unable he is to performe it, he fals to an heartie deſiring and earneſt longing for it; ve<g ref="char:EOLhyphen"/>ry highly priſing of it; Oh (thinkes he) that I could ſo doe, that I could be ſo happie; the Lord,
+<pb n="31" facs="tcp:169905:21"/>the Lord give me Grace to doe it, whatſoever be<g ref="char:EOLhyphen"/>tides me in this world, though I beg my bread: this deſire is very earneſt; longing for this rather then any thing, as one preſſed to death, deſiring water; or a condemned man a pardon, as <hi>David</hi> for the waters of <hi>Bethle<g ref="char:EOLhyphen"/>hem,</hi> and the chaſed heart after the water brookes:
+<note place="margin">Pſal. 42.1.</note> this is the hungring and thirſting of the Soule, whereof the Scripture ſpeakes, and whereto the Promiſe is made, <hi>Matth.</hi> 5.6. <hi>John</hi> 7.37.</p>
+               <p n="7">7. Supplication. This
+<pb n="32" facs="tcp:169905:22"/>his deſire is ſo ſtrong and vehement, that it can no longer hold in, but breaks forth in Prayer to God. Firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> as the Prodigall and Publicane in humble and heartie Confeſſion of his ſinfull Condition, think<g ref="char:EOLhyphen"/>ing none ſo great a ſinner as himſelfe, feeling his owne burden beſt, and abaſing himſelfe to no<g ref="char:EOLhyphen"/>thing, in regard of his owne unworthineſſe; yet ſecondly in earneſt fuit and petition to God to give him that bleſſed re<g ref="char:EOLhyphen"/>medie,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> and an heart to embrace it, which he ſees of his good will he hath
+<pb n="33" facs="tcp:169905:22"/>provided for him, even <hi>Ieſus Chriſt;</hi> that he may be well perſwaded of it, to his Soules Comfort; and thus continues every day praying, which is his hanging upon Chriſt, and crying after him, he will have no nay, nor let him goe, but thus clings cloſe<g ref="char:EOLhyphen"/>ly to him.</p>
+               <p n="8">8. At length God gra<g ref="char:EOLhyphen"/>ciouſly anſwers his re<g ref="char:EOLhyphen"/>queſt, with <hi>Son thy ſins are forgiven thee, be it unto thee as thou haſt deſired,</hi> and ſo workes it in him, as in the Creation, when God ſaid, Let there be this or that, it was ſo; ſo now workes in
+<pb n="34" facs="tcp:169905:23"/>him a true perſwaſion of his good will in Chriſt, even to him, and of be<g ref="char:EOLhyphen"/>ſtowing Chriſt a Reme<g ref="char:EOLhyphen"/>die on his Soule, and that by him, he ſhall have Grace and Mercie, and be ſaved: and that in this ſort, the humbled ſinner thinks thus, God hath gi<g ref="char:EOLhyphen"/>ven me an heart to deſire it, and to pray unfainedly for it, and it is according to his will I ſhould do ſo; now he <hi>heareth the deſire of the humble,</hi> Pſal. 10.17. and, <hi>If we aske any thing according to his will, he hea<g ref="char:EOLhyphen"/>reth us.</hi> 1 Joh. 5.14. Ther<g ref="char:EOLhyphen"/>fore I am perſwaded he
+<pb n="35" facs="tcp:169905:23"/>will grant it me, even the bleſſed Remedie Chriſt, with all his benefits to the everlaſting Salvation of my Soule.</p>
+               <p>This now is a true per<g ref="char:EOLhyphen"/>ſwaſion, and thus is faving Beliefe wrought and brought forth at length by the <hi>Goſpel.</hi>
+               </p>
+               <p>
+                  <hi>Object.</hi> But his prayer for it, is not altogether according to the will of God, and therefore is he not miſtaken for his ground, 1 <hi>Iob.</hi> 5.14. and ſo his perſwaſion falſe?</p>
+               <p>
+                  <hi>Anſ.</hi> Nor is any good thing we doe altogether according to Gods will;
+<pb n="36" facs="tcp:169905:24"/>but, firſt, it is that which God requires, and ſo ac<g ref="char:EOLhyphen"/>cording to his will. Se<g ref="char:EOLhyphen"/>condly, it is upright, un<g ref="char:EOLhyphen"/>fained, and therefore alſo accepted, the weakneſſe not imputed. Thirdly, he doth not deſire to main<g ref="char:EOLhyphen"/>taine himſelfe in doing it otherwiſe then Gods will is, nay, it is all his care, it may be according to his will every way, therefore <hi>It is accepted according to that he hath, and not accor<g ref="char:EOLhyphen"/>ding to that he hath not.</hi> 2 Cor. 8.12.</p>
+               <p n="2">2. <hi>Object.</hi> But it is not in Faith, he praies thus; ſee<g ref="char:EOLhyphen"/>ing Faith is not yet
+<pb n="37" facs="tcp:169905:24"/>brought forth till after his praying for it.</p>
+               <p>
+                  <hi>Anſ.</hi> It is not void of all Faith, as is ſhewed in the <hi>Chap.</hi> following.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. 5. <hi>Questions reſolved concer<g ref="char:EOLhyphen"/>ning the manner of the Goſpels working of Sa<g ref="char:EOLhyphen"/>ving Beliefe.</hi>
+               </head>
+               <p>
+                  <hi>Queſt.</hi> HAd this hum<g ref="char:EOLhyphen"/>bled ſinner ſa<g ref="char:EOLhyphen"/>ving Beliefe till now that he is come to this true perſwaſion of mercie by Chriſt?</p>
+               <p>
+                  <hi>Anſ.</hi> Yes; now it is brought forth, but it was
+<pb n="38" facs="tcp:169905:25"/>conceived and in bree<g ref="char:EOLhyphen"/>ding before, namely in his
+<note n="*" place="margin">Act. 11.21, 23.</note> reſolving, and earneſt deſiring it; the 5. and 6. points of the Goſpels working mentioned be<g ref="char:EOLhyphen"/>fore; then it was in him more unſenſibly and in conception; but when he comes to be truly perſua<g ref="char:EOLhyphen"/>ded, this is the birth of it, now it is in him more ſen<g ref="char:EOLhyphen"/>ſibly, now he ſees that he beleeves; as a woman hath a child in her womb before it be brought forth and ſhe hold it in her armes and look upon it.</p>
+               <p>
+                  <hi>Quest.</hi> How can you prove that there was ſa<g ref="char:EOLhyphen"/>ving
+<pb n="39" facs="tcp:169905:25"/>Faith begun in him then?</p>
+               <p>
+                  <hi>Anſ.</hi> 1. Becauſe in his reſolving upon, and ear<g ref="char:EOLhyphen"/>neſt deſiring of Chriſt, Gods Remedie, he gave his heart and will to Chriſt; for what wee greatly deſire that hath our heart.</p>
+               <p n="2">2. The Promiſe is made to this kind of deſiring, <hi>Matth.</hi> 5.6.</p>
+               <p n="3">3. He then yeelds to Gods demand and condi<g ref="char:EOLhyphen"/>tion, which is willingly to accept and make choice of Chriſt as God is wil<g ref="char:EOLhyphen"/>ling to beſtow him; the Soul in this deſiring him,
+<pb n="40" facs="tcp:169905:26"/>ſaith, Yea, I make choice of him above all.</p>
+               <p n="4">4. This reſolving on, and accepting of Chriſt, Gods Remedie, is to be<g ref="char:EOLhyphen"/>leeve, for the Soule ſaith to Gods proffer, <hi>I will,</hi> and conſents thereto; as in Marriage, Wilt thou have this man to thy wedded Husband? <hi>I will:</hi> This makes the <hi>match;</hi> ſo be<g ref="char:EOLhyphen"/>tween <hi>Chriſt</hi> and the <hi>Soul,</hi> God by his Proffer aſ<g ref="char:EOLhyphen"/>keth; the humbled ſoul by reſolving and deſiring it anſwers, yea, and conſents thereto.</p>
+               <p>Plainly thus, the ſinner rightly humbled by the
+<pb n="41" facs="tcp:169905:26"/>Law, and being alſo con<g ref="char:EOLhyphen"/>vinced in Conſcience by the Goſpels enlightning, of Gods free proffer of the Remedie to him, as well as to any other, doth by his reſolving on it, and fervent deſiring it, ſhew his good liking thereof, yea, accepts thereof, as if he ſhould ſay, yea let me have it, this accepting is weak implicite beleeving; the very beginning of it; but to be perſwaded is ſtronger beleeving, the making up of it: but right applying of Chriſt (the definition of Faith, <hi>Ch.</hi> 1.) comprehends both.</p>
+               <pb n="42" facs="tcp:169905:27"/>
+               <p>
+                  <hi>Queſt.</hi> But what if this deſire and reſolution be not ſound and unfained?</p>
+               <p>
+                  <hi>Anſw.</hi> Then it doth no good, neither is it ſaving Beliefe, but only a coun<g ref="char:EOLhyphen"/>terfeit of it, but I ſpeak all this while of that which is true and unfained.</p>
+               <p>
+                  <hi>Quest.</hi> How may it be knowne?</p>
+               <p>
+                  <hi>Anſ.</hi> 1. It is a deſiring of Chriſt above any other thing that can be thought or named, as one readie to die for thirſt deſires wa<g ref="char:EOLhyphen"/>ter above any thing elſe.</p>
+               <p n="2">2. It is very earneſt, pro<g ref="char:EOLhyphen"/>ceeding from the very A<g ref="char:EOLhyphen"/>gonie of Conſcience, and
+<pb n="43" facs="tcp:169905:27"/>will have no Nay, (as <hi>Ra<g ref="char:EOLhyphen"/>chel, Give me Children, or elſe I dye</hi>) it cannot be ſa<g ref="char:EOLhyphen"/>tisfied, nor endure with<g ref="char:EOLhyphen"/>out him whatſoever elſe it hath.</p>
+               <p n="3">3. It deſires the Remedy not by haves, but as God hath provided it, whole Chriſt, as well for a ſan<g ref="char:EOLhyphen"/>ctifying Remedie, as a ſa<g ref="char:EOLhyphen"/>ving, elſe it is not a true deſire, nor a right accep<g ref="char:EOLhyphen"/>ting of him, ſuch an one doth not apply the true Chriſt, but an halfe Chriſt, or an <hi>Idol-Chriſt</hi> of his owne making; <hi>viz.</hi> to ſave without ſanctify<g ref="char:EOLhyphen"/>ing, which is not the
+<pb n="44" facs="tcp:169905:28"/>Chriſt, that God hath ap<g ref="char:EOLhyphen"/>pointed for a Remedie.</p>
+               <p>And for as much as our firſt coupling and uniting unto Chriſt conſiſteth in this point, we muſt be ſo much the more carefull of it, that it be well done, for by Humiliation we are pluckt out of the old Stocke, by beleeving we are ſet into the new, that is Chriſt, there muſt bee great Care had that we be rightly joynted in, as the Science well ſet into the Stock at firſt, thrives more in one yeere, then another will doe in foure, if it grow at all.</p>
+               <p n="1">
+                  <pb n="45" facs="tcp:169905:28"/>1. Firſt then, we muſt deſirouſly and reſolvedly accept of whole Chriſt (this is to be rightly joyn<g ref="char:EOLhyphen"/>ted into him) that is a Sanctifier as well as a Sa<g ref="char:EOLhyphen"/>ver of us, to make us holy, as well as to make us whole; as a
+<note n="*" place="margin">Act. 2.36</note> Lord to have the whole command of us, and we to be ruled by him, to follow him, and doe as he would have us; we muſt be joyned to him as our
+<note n="*" place="margin">Eph. 4.15, 16.</note> Head, to in<g ref="char:EOLhyphen"/>fuſe ſpirituall life and power of Grace into us, to vanquiſh corruption, and to delight in God, and to gloriſie him in ho<g ref="char:EOLhyphen"/>lineſſe;
+<pb n="46" facs="tcp:169905:29"/>elſe we ſhall be, as it were, ingraffed into a dead or ſapleſſe Stocke, Can ſuch a Science grow or proſper? Therefore we muſt take the whole Re<g ref="char:EOLhyphen"/>medie, not a Jeſus onely, but a Chriſt too, and that not partly, <hi>viz.</hi> a Prieſt to die for us, but a King alſo to rule over us, and a Pro<g ref="char:EOLhyphen"/>phet to teach us.</p>
+               <p n="2">2. We muſt be wholly joynted into him, not partly into our ſelves, and partly into him, as to thinke that though we have need of Chriſt, yet that
+<note n="*" place="margin">
+                     <hi>Non in<g ref="char:EOLhyphen"/>telligit be<g ref="char:EOLhyphen"/>neficia di<g ref="char:EOLhyphen"/>vina qui ſe tantum<g ref="char:EOLhyphen"/>modò à Deo juvari pu<g ref="char:EOLhyphen"/>tat.</hi> Lac. li. 1. c. 11. Divi. Inſt.</note> there is ſome good<g ref="char:EOLhyphen"/>neſſe in our ſelves.</p>
+               <p n="3">
+                  <pb n="47" facs="tcp:169905:29"/>3. To an holy end, <hi>viz.</hi> Not to take libertie to ſin more, but with a Cove<g ref="char:EOLhyphen"/>nant in our hearts to ſinne no more; that is, what we know to be ſin, not wil<g ref="char:EOLhyphen"/>lingly to give our ſelves leave to do it for a world.</p>
+               <p>That humbled ſinner, that by unfained deſire and Reſolution thus ac<g ref="char:EOLhyphen"/>cepteth of Chriſt is right<g ref="char:EOLhyphen"/>ly joynted into him and a true Beleever.</p>
+               <p>
+                  <hi>Queſt.</hi> But can ſuch be in danger of beleeving wrong, that have beene rightly humbled?</p>
+               <p>
+                  <hi>A.</hi> Not ſo, but they that are not thus rightly joyn<g ref="char:EOLhyphen"/>ted
+<pb n="48" facs="tcp:169905:30"/>into Chriſt, have not beene rightly humbled, but only in part, to wit, to ſee themſelvs in danger of damnation by ſin, which therefore, they would have forgiven, but not to abhorre their ſins and be wearie of them, willing to be rid of them, and to doe any thing that God ſhall bid them, or would have them do, which are parts of ſound Humiliation, as CHAP. 3. was ſhewed: thus as they are humbled onely in part, ſo they ap<g ref="char:EOLhyphen"/>ply Chriſt onely in part (for one cannot deſire or accept of Chriſt any fur<g ref="char:EOLhyphen"/>ther
+<pb n="49" facs="tcp:169905:30"/>then he is ſenſible of his own neceſſitie) this is to divide him; therefore a falſe affection of deſire to him, as the falſe mother, 1 <hi>King.</hi> 3.26. would have the child divided.</p>
+               <p>
+                  <hi>Queſt.</hi> Whether are the Promiſes to be applyed to one truly humbled by the Law, and enlightened by the Goſpel, &amp;c. touch<g ref="char:EOLhyphen"/>ing the Remedie proffe<g ref="char:EOLhyphen"/>red to him, though not yet reſſolved to reſt per<g ref="char:EOLhyphen"/>ſwaded thereof, but puts it from himſelfe, becauſe of unworthineſſe?</p>
+               <p>
+                  <hi>Anſ.</hi> Apply the Pro<g ref="char:EOLhyphen"/>miſes to him we may not,
+<pb n="50" facs="tcp:169905:31"/>becauſe they doe not be<g ref="char:EOLhyphen"/>long to him till he
+<note n="*" place="margin">Gal. 3.22</note> be<g ref="char:EOLhyphen"/>leeve, but the precept of Beleeving ought to be ap<g ref="char:EOLhyphen"/>plyed to him, that is, he is to be exhorted to give his minde to be perſwaded of Gods good will to him, in offering him the Re<g ref="char:EOLhyphen"/>medie in good earneſt, and is as willing to ſhew him mercie and to be<g ref="char:EOLhyphen"/>ſtow the Remedie on him, as on any other, ſo that be refuſe it not and ſo judge himſelfe
+<note n="*" place="margin">Act. 13.46.</note> 
+                  <hi>unworthy of everlaſting life,</hi> therfore he is to be required by re<g ref="char:EOLhyphen"/>ſolving theron deſirouſly, to accept thereof, which is to Beleeve.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="51" facs="tcp:169905:31"/>
+               <head>CHAP. 6. <hi>The Grounds of true Belee<g ref="char:EOLhyphen"/>ving.</hi>
+               </head>
+               <p>
+                  <hi>Qu.</hi> YOu have ſhewed how the humbled ſinner, by the working of the Goſpel, comes to be<g ref="char:EOLhyphen"/>leeve, but upon what Grounds doth he thus be<g ref="char:EOLhyphen"/>leeve?</p>
+               <p>
+                  <hi>A.</hi> He hath his Grounds, for elſe, that were as a building without a Foun<g ref="char:EOLhyphen"/>dation; but it is not any thing in himſelfe (only he is prepared for, and made capable of the Remedie, by ſound Humiliation, as CHAP. 3.) his Grounds
+<pb n="52" facs="tcp:169905:32"/>are all in God: as</p>
+               <p n="1">1. His Free Proffer and good leave, <hi>whoſoever will,</hi> Rev. 22.17. and <hi>any one that thirsteth,</hi> Joh. 7.37.</p>
+               <p n="2">2. His Will, who would have him do ſo, <hi>Ioh.</hi> 6.40.</p>
+               <p n="3">3. His Deſire, <hi>as though God beſeech you by us,</hi> ſaith the Apoſtle. 2 <hi>Cor.</hi> 5.20.</p>
+               <p n="4">4. His Command requi<g ref="char:EOLhyphen"/>ring and charging him to beleeve, <hi>This is his Co<g ref="char:cmbAbbrStroke">̄</g>man<g ref="char:EOLhyphen"/>dement, that we ſhould be<g ref="char:EOLhyphen"/>leeve on the Name of his Son,</hi> 1 Joh. 3.23. ſo that he ſhould highly offend God, <hi>Make him a liar,</hi> 1 Joh. 5.10. and ſet the Grace of God at naught
+<pb n="53" facs="tcp:169905:32"/>if he did not.</p>
+               <p n="5">5. His Promiſe, that he ſhall not in ſo doing have the Repulſe: <hi>Him that commeth to me, I will in no wiſe caſt out,</hi> ſaith Chriſt, <hi>Ioh.</hi> 6.37. and therefore moſt ſafetie herein.</p>
+               <p>Thus though he ſee no cauſe why in himſelf (any more then his own neceſ<g ref="char:EOLhyphen"/>ſitie) yet becauſe it is Gods Will, and Deſire, Command, with Pro<g ref="char:EOLhyphen"/>miſe, &amp;c. he gives his minde and bends his will to reſt perſwaded of Gods good will to his Soule by Chriſt.</p>
+               <p>This is to beleeve meer<g ref="char:EOLhyphen"/>ly
+<pb n="54" facs="tcp:169905:33"/>upon Conſcience, when we ſee in our ſelves no reaſon, why we ſhould doe ſo, yet becauſe it is Gods will, this is the beſt beleeving; (for the leſſe there is of our ſelves in beleeving, the better it is) and this will ſticke ſureſt by us, nor is ſo ſubject to waverings and reelings, as otherwiſe; Let it be well marked, for divers miſta<g ref="char:EOLhyphen"/>king their Grounds, and looking for ſomething in themſelves to ground on, looſe their way, and are ſo wofully bewilderd, that thereupon they are in great perplexitie
+<note n="*" place="margin">
+                     <hi>See more</hi> Chap <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>the</hi> 6. <hi>help</hi>
+                  </note>.</p>
+               <pb n="55" facs="tcp:169905:33"/>
+               <p>Now the partie draw<g ref="char:EOLhyphen"/>ing to a perſwaſion up<g ref="char:EOLhyphen"/>on the foreſaid right grounds, this is ſuch a thing as ſhould be done, once for all, ſeeing it is done in Conſcience and according to truth; ther<g ref="char:EOLhyphen"/>fore he ſhould doe it with this mind and meaning to reſt thus perſwaded now and for ever, and never to deny it, or yeeld to doubt<g ref="char:EOLhyphen"/>ing of it afterward: it muſt be adviſedly done, as in Marriage once for ever, wherein there is an accep<g ref="char:EOLhyphen"/>ting and covenanting, not for the Marriage day on<g ref="char:EOLhyphen"/>ly, but for all their life:
+<pb n="56" facs="tcp:169905:34"/>this is a great ſetling to Faith.</p>
+               <p>
+                  <hi>Q.</hi> How may one know whether he beleeve thus on Conſcience, becauſe God wils and commands it?</p>
+               <p>
+                  <hi>A.</hi> Then he will as well make Conſcience of o<g ref="char:EOLhyphen"/>beying God in other things, becauſe he Com<g ref="char:EOLhyphen"/>mands us to be humbled for ſin, to repent thereof, to renounce all knowne ſin, yea, to part with our beſt beloved ſins: and to take up the Croſſe and follow Chriſt, to embrace ſelf-deniall, true holineſſe and Sanctification, and the like.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="57" facs="tcp:169905:34"/>
+               <head>CHAP. 7. <hi>Divers Objections anſwered which hold back ones be<g ref="char:EOLhyphen"/>leeving after he is throughly humbled.</hi>
+               </head>
+               <p>THE broken-hearted and humbled ſinner (for of ſuch an one I ſpeake, and the Anſwers to the Objections follow<g ref="char:EOLhyphen"/>ing are only meant to ſuch an one) is peſtered with many Objections to keep him off from beleeving, ſome before the birth of Faith, and while it is in conception, ſome after<g ref="char:EOLhyphen"/>wards: for now Satan aſ<g ref="char:EOLhyphen"/>ſaults him, as <hi>the red Dra<g ref="char:EOLhyphen"/>gon
+<pb n="58" facs="tcp:169905:35"/>ſtood before the woman ready to be delivered,
+<note place="margin">Rev. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>2.4.</note> to de<g ref="char:EOLhyphen"/>voure her Child, as ſoon as it was borne;</hi> now that a Soule is breaking looſe, or broken from him, he be<g ref="char:EOLhyphen"/>ſtirres himſelfe to fetch back his priſoner: ſome of which objections moſt uſuall are theſe:</p>
+               <p n="1">1 <hi>Object.</hi> If I be not ele<g ref="char:EOLhyphen"/>cted, I cannot beleeve, doe I what I can, and whether I be elected, I cannot tell.</p>
+               <p>
+                  <hi>A.</hi> Trouble not your ſelfe with Gods ſecret will; Beleeve, and you are elected, then you ſhall know, and before you cannot; you muſt firſt
+<pb n="59" facs="tcp:169905:35"/>know that you beleeve, before you can know that you are elected.</p>
+               <p n="2">2 <hi>Obj.</hi> I cannot beleeve unleſſe God inable me.</p>
+               <p>
+                  <hi>A.</hi> True; yet God re<g ref="char:EOLhyphen"/>quires you to be willing to take abilitie, when he offers you as now he doth. 2. To uſe abilitie as he be<g ref="char:EOLhyphen"/>ſtowes it on you; in ma<g ref="char:EOLhyphen"/>king you willing, therein he inables you in ſome meaſure, he would have you put forth this Strength to the uttermoſt, and doe what you can for your heart to beleeve, elſe it is as if one deadly hun<g ref="char:EOLhyphen"/>gry, having Food offered
+<pb n="60" facs="tcp:169905:36"/>him, ſhould ſay, I cannot feed unleſſe God give me abilitie, and ſo not aſſay, nor trie to doe what he can to eat: or for leaving of ſin, as if one ſhould ſay, I cannot leave ſin, unleſſe God inable me, and ſo continue in ſin; nay, thou muſt give thy minde and will, and yeeld thy ſelfe to doe it; and ſo it is for beleeving.</p>
+               <p n="3">3 <hi>Obj.</hi> I feare I have not been rightly humbled, all my trouble was onely for feare of hell.</p>
+               <p>
+                  <hi>Anſ.</hi> It can be no other till you beleeve; there is nothing but Law, till
+<pb n="61" facs="tcp:169905:36"/>Grace come, there can be no love of God in you, till you taſte the ſweet<g ref="char:EOLhyphen"/>neſſe of his love to you by Chriſt
+<note n="*" place="margin">1 Joh. 4.19.</note> firſt; which is by beleeving.</p>
+               <p n="2">2. If it be only therefore, it doth indeed prove you doe not as yet beleeve; but yet it proves withall that you are prepared to beleeve; and may ſo doe now ſafely and without danger.</p>
+               <p n="4">4 <hi>Obj.</hi> But I feare I was never humbled enough; and as I ſee ſome others have been.</p>
+               <p>
+                  <hi>A.</hi> 1. Others muſt not be your meaſure, the Lord
+<pb n="62" facs="tcp:169905:37"/>deales differently. If one woman have not ſo grie<g ref="char:EOLhyphen"/>vous paine in Child-bea<g ref="char:EOLhyphen"/>ring as another, doth it prove her no mother of a Child?</p>
+               <p n="2">2. If you feare it, that is a ſigne you deſire to be humbled throughly, an Argument of the Truth of it.</p>
+               <p n="3">3. If you unfainedly deſire whole Chriſt (to ſanctifie as well as ſave you) above any thing, then you have been hum<g ref="char:EOLhyphen"/>bled enough.</p>
+               <p n="4">4. If you can feelingly pitie others, that are hum<g ref="char:EOLhyphen"/>bled and diſtreſſed in ſoul,
+<pb n="63" facs="tcp:169905:37"/>and not be angrie with them, nor count them fooles (as carnall people doe) thats a ſigne you know what belongs to it.</p>
+               <p n="5">5. Have you been dri<g ref="char:EOLhyphen"/>ven out of all good con<g ref="char:EOLhyphen"/>ceit of your ſelfe, ſeeing nothing but matter of damnation in you, not thinking your ſelfe better but as bad as any bodie, and deſerving damnation as much as any one? And ſecondly, your heart ſo oppreſſed with ſorrow thereupon, that it would not let you be at quiet, nor content your ſelfe in the comfort of any thing
+<pb n="64" facs="tcp:169905:38"/>without Chriſt, for griefe of your loſt Soule, ſo that no worldly Joy could ex<g ref="char:EOLhyphen"/>tinguiſh it, nor rid you of this ſorrow, but only the Joy of Beleeving; and thirdly, hath made you therefore reſolve to get Chriſt, if poſſibly you could, though you looſe all elſe? if it hath been thus with you, you have been humbled enough to make you capable of be<g ref="char:EOLhyphen"/>leeving.</p>
+               <p>
+                  <hi>Qu.</hi> What ſhould they doe that have not beene humbled enough?</p>
+               <p>
+                  <hi>A.</hi> Let them ſtudie well and throughly of the vile
+<pb n="65" facs="tcp:169905:38"/>nature of ſinne which
+<note n="*" place="margin">1 Sam. 3.13.</note> makes us vile, what infi<g ref="char:EOLhyphen"/>nite wrong it doth to God, what daring and provoking of him: what a poyſonfull thing, and murderer of our ſouls, not the leaſt
+<note n="*" place="margin">Job 33.27.</note> good to be got<g ref="char:EOLhyphen"/>ten by it, but the greateſt loſſe, moſt hateful to God and hurtfull to our ſelves; they that plod well on this, it will make them thinke more baſely of themſelves, and humble them more: Hee that would be a meet ſubject of mercy, muſt bee throughly abaſed in him ſelfe; the world accounts
+<pb n="66" facs="tcp:169905:39"/>of us thereafter as we ſet forth our ſelves; but God thereafter as we abaſe our ſelves.</p>
+               <p n="5">5 <hi>Object.</hi> How is it like<g ref="char:EOLhyphen"/>ly, that God favours me ſo well as to give me Chriſt, whenas all good people have diſcounte<g ref="char:EOLhyphen"/>nanced me, and not cared for me for my naughti<g ref="char:EOLhyphen"/>neſſe?</p>
+               <p>
+                  <hi>A.</hi> Both God and they have; ſo long as you fol<g ref="char:EOLhyphen"/>lowed your ignorant, pro<g ref="char:EOLhyphen"/>fane, or meer civill courſe, but now that you are changed, as ſure as Gods people, ſo ſurely God himſelf makes reckoning
+<pb n="67" facs="tcp:169905:39"/>of you, and likes you well.</p>
+               <p n="6">6 <hi>Obj.</hi> But now my old friends and companions caſt me off.</p>
+               <p>
+                  <hi>A.</hi> It's a ſigne of Gods better liking of you, for that which the world moſt deſpiſe is moſt wel<g ref="char:EOLhyphen"/>come to God, namely a dejected Soule and <hi>broken heart,</hi> this is a ſweet
+<note n="*" place="margin">Pſal. 51.17.</note> 
+                  <hi>Sa<g ref="char:EOLhyphen"/>crifice</hi> to him.</p>
+               <p n="7">7 <hi>Obj.</hi> But I am ſo un<g ref="char:EOLhyphen"/>worthy, &amp;c.</p>
+               <p>
+                  <hi>A.</hi> If you ſtand upon worthineſſe, Chriſt can profit you nothing, the more you ſee your un<g ref="char:EOLhyphen"/>worthineſſe and groane under it, the fitter you are
+<pb n="68" facs="tcp:169905:40"/>for him, and he for you: as if one readie to ſtarve, having an Almes offered him, by one extreamely wronged by him, ſhould ſay, O nay, I am unwor<g ref="char:EOLhyphen"/>thy, and ſo chuſe rather to die, than to receive it; juſt ſo doe you.</p>
+               <p n="8">8 <hi>Ob.</hi> If I could prevaile more over my corrupti<g ref="char:EOLhyphen"/>ons, I ſhould have ſome good hope, but they alas are ſo many, &amp; ſo ſtrong, that my heart failes me.</p>
+               <p>
+                  <hi>A.</hi> The cauſe why your corruptions prevaile ſo much, is want in Belee<g ref="char:EOLhyphen"/>ving, and becauſe you do not as God bids you, to
+<pb n="69" facs="tcp:169905:40"/>beleeve, that he will ſave you by Chriſt; he will have you know, if you get any Grace at his hand, it muſt be by doing as he bids you, and not by diſ<g ref="char:EOLhyphen"/>obedience: if you would beleeve this better, you ſhould finde ſuch admira<g ref="char:EOLhyphen"/>ble ſweetneſſe in Gods love, as ſhould conſtraine you to love him more, and the more you love him, the more ſhould you hate ſin and corruption, which is contrarie to him; and the more you hate that, the more it would waſt in you; for it is your love to it, that nouriſheth it, and
+<pb n="70" facs="tcp:169905:41"/>makes it thrive, and ſhoot up in you; In a word, your Beliefe muſt be ſtronger, that your corruptions may grow weaker, there<g ref="char:EOLhyphen"/>fore give your minde to it as good at firſt as at laſt; Beleeve ſtedfaſtly in the Grace of God.</p>
+               <p n="9">9 <hi>Object.</hi> But I feare, if I ſhould thus perſwade my ſelfe, I ſhould preſume.</p>
+               <p>
+                  <hi>Anſ.</hi> Feare not that, you being rightly humbled, for that perſwaſion, that goes before ſound Humi<g ref="char:EOLhyphen"/>liation is preſumption, but not that which fol<g ref="char:EOLhyphen"/>loweth it; if you can at<g ref="char:EOLhyphen"/>taine to a grounded per<g ref="char:EOLhyphen"/>ſwaſion
+<pb n="71" facs="tcp:169905:41"/>after, ſafe and good: to preſume is to be perſwaded, when one ſhould not, not when hee ſhould; as now you ſhould and ought, feeling the burden of your ſins, God requires it of you, <hi>Matth.</hi> 11.28.</p>
+               <p n="10">10 <hi>Object.</hi> But there are a very few Beleevers; therefore I am afraid I am none of them.</p>
+               <p>
+                  <hi>A.</hi> Few indeed, yet not becauſe God is un<g ref="char:EOLhyphen"/>willing to ſave more, but becauſe ſo few will ac<g ref="char:EOLhyphen"/>cept of his proffer on his Termes; which if thou wilt, it's all one to thee,
+<pb n="72" facs="tcp:169905:42"/>few or many.</p>
+               <p n="11">11 <hi>Obj.</hi> I feare I have ſin<g ref="char:EOLhyphen"/>ned againſt the <hi>Holy Ghoſt,</hi> becauſe I have often reſi<g ref="char:EOLhyphen"/>ſted that good Spirit, and gone againſt my Conſci<g ref="char:EOLhyphen"/>ence.</p>
+               <p>
+                  <hi>A.</hi> But thou wilt not re<g ref="char:EOLhyphen"/>nounce Gods Truth, nor as an enemie maliciouſly perſecute it, therefore haſt not committed that un<g ref="char:EOLhyphen"/>pardonable ſin.</p>
+               <p n="2">2. Thou grieveſt forthy reſiſting the Spirit, and wilt be more carefull not to doe ſo; how then haſt thou committed that ſin whereof one cannot re<g ref="char:EOLhyphen"/>pent, when thou ſeeſt,
+<pb n="73" facs="tcp:169905:42"/>thou doſt even now re<g ref="char:EOLhyphen"/>pent of it.</p>
+               <p n="12">12 <hi>Obj.</hi> I feare (if ever I had it) that I have loſt it again, becauſe I have not ſuch Joy and Cheereful<g ref="char:EOLhyphen"/>neſſe as I had at firſt.</p>
+               <p>
+                  <hi>A.</hi> You cannot looſe it, if you had it not before; and if you had it before, you cannot looſe it, be<g ref="char:EOLhyphen"/>cauſe its a thing that
+<note n="*" place="margin">1 Pet. 1.5. and 9.</note> can<g ref="char:EOLhyphen"/>not be loſt; as for your Joy it is with you, as with the Church raviſht moſt with Joy upon their firſt deliverance out of capti<g ref="char:EOLhyphen"/>vitie, <hi>Pſal.</hi> 126.2. and yet their deliverance laſted long after; or like the
+<pb n="74" facs="tcp:169905:43"/>creeple, <hi>Act.</hi> 3.8. who up<g ref="char:EOLhyphen"/>on his unexpected cure, ſhewed greateſt Joy at firſt, and yet he was as ſound of his limmes long after.</p>
+               <p n="13">13 <hi>Obj.</hi> I feare I ſhall not be able to hold out, becauſe Satan and my corruptions are ſo ſtrong, and my Faith ſo weake (if I have any)</p>
+               <p>
+                  <hi>Anſ.</hi> God <hi>who hath be<g ref="char:EOLhyphen"/>gun the good worke, will fi<g ref="char:EOLhyphen"/>niſh it,</hi> Phil. 1.6. and <hi>Chriſt</hi> is <hi>both Alpha</hi> and <hi>Omega,</hi> Rev. 1.11. not onely the Beginner, but alſo the <hi>Fi<g ref="char:EOLhyphen"/>niſher of our faith,</hi> Heb. 12.2. A living member
+<pb n="75" facs="tcp:169905:43"/>of Chriſt cannot periſh, unleſſe he ſhould periſh with him, as the mem<g ref="char:EOLhyphen"/>bers of the body cannot be drowned without the head.</p>
+               <p n="14">14 <hi>Ob.</hi> O it is a difficult matter to beleeve truly.</p>
+               <p>
+                  <hi>A.</hi> The matter of diffi<g ref="char:EOLhyphen"/>cultie is moſt in the will, be you more willing, and it will be more eaſie.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. 8. <hi>The maine Lets to the get<g ref="char:EOLhyphen"/>ting of ſaving Beliefe in meere naturall ones.</hi>
+               </head>
+               <p>THere are many Lets and Hinderances that
+<pb n="76" facs="tcp:169905:44"/>keep men from getting of it, ſome of the Chiefe are theſe:</p>
+               <p n="1">1. <hi>Ignorance,</hi> not know<g ref="char:EOLhyphen"/>ing what it is, how good, and how they ought to labour for it, ſuch God ſweares, <hi>ſhall not enter into his rest,</hi>
+                  <note place="margin">Pſal. 95.10, 11.</note> becauſe <hi>they know not his wayes.</hi>
+               </p>
+               <p n="2">2. <hi>Feare</hi> and <hi>Distrust,</hi> leſt God will not give it them, though they ſeek it, whereby they do him no ſmall diſhonour, ſeeing he hath promiſed the con<g ref="char:EOLhyphen"/>trarie.
+<note place="margin">Matt. 7.7.</note> 
+                  <hi>Seeke, and ye ſhall finde.</hi>
+               </p>
+               <p n="3">3. <hi>Spirituall Pride,</hi> and well-conceitedneſſe of
+<pb n="77" facs="tcp:169905:44"/>themſelves,
+<note place="margin">We are all by nature as full of pride and ſelfe<g ref="char:EOLhyphen"/>conceited<g ref="char:EOLhyphen"/>neſſe, as a bladder is of wind, but when we are pricked with the Law, we finde our ſelves empty and lanke.</note> and their do<g ref="char:EOLhyphen"/>ings; as he thinks ſcorn to beg, or be beholding to another, that hath of his own alreadie; <hi>Every one that is</hi> (thus) <hi>proud in heart is abomination to the Lord.</hi> Prov. 16.5.</p>
+               <p n="4">4. <hi>Carnall Securitie,</hi> thin<g ref="char:EOLhyphen"/>king their Soules are not in danger, nor will be per<g ref="char:EOLhyphen"/>ſwaded of it; he that thinkes not himſelfe in any danger of death, will not uſe Phyſicke to pre<g ref="char:EOLhyphen"/>ſerve his life; theſe are like <hi>Siſera</hi> faſt aſleep and ſe<g ref="char:EOLhyphen"/>cure,
+<note place="margin">Judg. 4.21.</note> when <hi>Jael</hi> was ready to pierce his braines.</p>
+               <p n="5">5. <hi>Carnall Confidence,</hi>
+                  <pb n="78" facs="tcp:169905:45"/>and truſting to their out<g ref="char:EOLhyphen"/>ward proſperitie, becauſe they thrive and fare well in the world, in bodie and in outward Eſtate, there<g ref="char:EOLhyphen"/>fore are confident their ſoules doe ſo too; as if a Traitour in hold, finding good keeping, ſhould be confident of a pardon.</p>
+               <p n="6">6. <hi>Sloth,</hi> and a lazie hu<g ref="char:EOLhyphen"/>mour; whiles men, had ra<g ref="char:EOLhyphen"/>ther be without it, than to take paines for the get<g ref="char:EOLhyphen"/>ting of it, and to remove ſuch logges out of the way, as hinder them to<g ref="char:EOLhyphen"/>wards it; as one in a ſwoune that had rather go away, then be rubb'd and
+<pb n="79" facs="tcp:169905:45"/>ſtruggled with, for the ſa<g ref="char:EOLhyphen"/>ving of his life.</p>
+               <p n="7">7. <hi>Delay,</hi> as men putting off ſo long the getting of a pardon (which they might have) that they are hanged before it come: thus many an one looſeth the land of promiſe by lingring ſo long in the wilderneſſe of ſin; as the old Iſraelites.</p>
+               <p n="8">8. <hi>Preſumption,</hi> which is not <hi>ſaving</hi> but <hi>deceiving Beliefe,</hi> falſe beleeving, where with Faiths roome is taken up, that there is no Roome for it to enter; theſe are they, that were never made ſo much as
+<pb n="80" facs="tcp:169905:46"/>capeable of beleeving by getting a broken heart, and yet beleeve and ap<g ref="char:EOLhyphen"/>ply Chriſt to themſelves after their owne faſhion, without any ground or warrant from God, nay, againſt his Word; They doe not take Chriſt the Remedie, 1. in Gods or<g ref="char:EOLhyphen"/>der, by being humbled firſt; nor yet 2. upon Gods termes, <hi>viz.</hi> to be rid of their ſins by him, as <hi>Act.</hi> 3.26. They that thus by preſumption have falſly laid hold on Chriſt, it's an harder matter farre to make them looſen, and ſo take true and good hold
+<pb n="81" facs="tcp:169905:46"/>of him, then thoſe that have beene ever fearing and doubting, and never yet apprehended at all; As one at point of being drowned, having taken faſt hold of a Bulruſh in the water, it's harder (his Senſes being ſtonied) to make him let goe, and take hold on a ſtrong pole reacht to him, then if he had taken hold on nothing at all.</p>
+               <p>Carnall people are even ſhackled &amp; fettered with theſe fore-named hinde<g ref="char:EOLhyphen"/>rances, and as it were with ſtrong Chaines held in; which if they get not
+<pb n="82" facs="tcp:169905:47"/>looſe from, they are bond<g ref="char:EOLhyphen"/>men to Satan ſtill, no free<g ref="char:EOLhyphen"/>men of Chriſt, to wit, true Beleevers; for all their ſmooth and civill beha<g ref="char:EOLhyphen"/>viour, wronging no body, paying every one their owne, keeping their Church, and profeſſing true Religion.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. 9. <hi>Helps to ſaving Beliefe, for distreſſed Soules.</hi>
+               </head>
+               <p>THeſe helps are onely meant for the affli<g ref="char:EOLhyphen"/>cted Conſcience, and for weake wavering ones; for to offer helpe to a dead
+<pb n="83" facs="tcp:169905:47"/>man is loſt labour, but to a weake man is a benefit; they are therefore for thoſe humbled ſinners in whom Faith is to be con<g ref="char:EOLhyphen"/>ceived, or is conceived (as CHAP. 5.) and come to the birth, but there is no power to bring forth in a ſenſible perſuaſion, which yet their ſoules long for, (more then any woman for her deliverie) O ſay they that I had this aſſu<g ref="char:EOLhyphen"/>rance; that I could be ſo perſwaded, (yea, ſome with many teares, thus ex<g ref="char:EOLhyphen"/>preſſing their deſires) to whom, I ſay, conſider</p>
+               <p n="1">1. God hath provided
+<pb n="84" facs="tcp:169905:48"/>Chriſt a Remedie effectu<g ref="char:EOLhyphen"/>all for every poore di<g ref="char:EOLhyphen"/>ſtreſſed ſoule, that ſeeing and feeling it's neceſſitie, is truly willing and
+<note n="*" place="margin">As Chap. 5. <hi>Q.</hi> 4.</note> de<g ref="char:EOLhyphen"/>ſirous to receive him, <hi>Iſai.</hi> 55.1. Beleeveſt thou this? yes. Then alſo you ſee your ſoule is ſuch a ſoule. yes. Therefore of neceſſi<g ref="char:EOLhyphen"/>tie you muſt yeeld, that God hath provided him ſuch a Remedie for your Soule: what ſay you to this?</p>
+               <p>
+                  <hi>Anſ.</hi> I am not able to contradict it; Go to then, now then you are perſwa<g ref="char:EOLhyphen"/>ded, that God hath provi<g ref="char:EOLhyphen"/>ded the Remedie to be ef<g ref="char:EOLhyphen"/>fectuall,
+<pb n="85" facs="tcp:169905:48"/>even for your Soul in particular, and for the Salvation thereof, which is to beleeve, yea, the birth thereof.</p>
+               <p n="2">2. Are you unfainedly deſirous of Grace, the fa<g ref="char:EOLhyphen"/>vour of God, and Salvati<g ref="char:EOLhyphen"/>on by Chriſt? Lord thou knoweſt I deſire it with my heart: Well then, know that God is a thou<g ref="char:EOLhyphen"/>ſand-fold more defirous of it, <hi>Ezek.</hi> 33.11. For thy defire is finite, his infinite, and if God be willing and you to, what ſhould hinder? God and you are agreed upon it, there<g ref="char:EOLhyphen"/>fore ſo it ſhall be.</p>
+               <pb n="86" facs="tcp:169905:49"/>
+               <p>
+                  <hi>Object.</hi> The doubt is of his willingneſſe, for I find willingneſſe in my ſelfe to it.</p>
+               <p>
+                  <hi>Anſ.</hi> Doe you beleeve you have deſerved hell, becauſe Gods Word ſaith ſo? yes. Why then doe you not beleeve, that Gods will and deſire is to ſave you, ſeeing his Word ſaith ſo to; if it be true in one thing, it's true in another: Remember, <hi>If we</hi> (with humble and up<g ref="char:EOLhyphen"/>right hearts) <hi>confeſse our ſinnes, he is faithfull and juſt to forgive us,</hi> Joh. 1.8 ſo then he is willing to ſhew you mercy and that
+<pb n="87" facs="tcp:169905:49"/>he can, you canot doubt; if you thinke him Almigh<g ref="char:EOLhyphen"/>tie, and ſeeing he both can and will, you muſt be per<g ref="char:EOLhyphen"/>ſwaded ſo it ſhall be.</p>
+               <p n="3">3. Further conſider, that in a yeelding Reſo<g ref="char:EOLhyphen"/>lution of an humbled Soule to Gods proffer, and in an heartie deſire is faith conceived (though not brought forth) as was ſhewed CHAP. 5. Thus it is with you, therefore Faith is in you, though not ſeen, nor ſenſibly diſ<g ref="char:EOLhyphen"/>cerned of you, and ſeeing it is in you, needs muſt you thinke that Chriſt is yours, and that you ſhall
+<pb n="88" facs="tcp:169905:50"/>be ſaved by him.</p>
+               <p n="4">4. To ſtudie much &amp; of<g ref="char:EOLhyphen"/>ten upon Chriſt, is a good help and meanes, to bring us to come to partake of him by Faith; for what our minde thinkes much on, it is by degrees tranſ<g ref="char:EOLhyphen"/>formed into, if of world<g ref="char:EOLhyphen"/>ly things into worldli<g ref="char:EOLhyphen"/>neſſe; if of heavenly, into heavenly-mindedneſſe, if of Chriſt very much, into Chriſt at laſt; as that which lies ſoaking in freſh water, growes freſh; but if in ſalt water, it will grow brackiſh: We muſt not thinke to catch Chriſt ſwimming aloft, by ſu<g ref="char:EOLhyphen"/>perficiall
+<pb n="89" facs="tcp:169905:50"/>and ſleight thin<g ref="char:EOLhyphen"/>king of him now and then; but muſt dive deepe in ſerious ſtudie and deep meditation of him, as <hi>Eph.</hi> 3.18, 19.</p>
+               <p n="5">5. You muſt bargaine for Chriſt, and ſo you ſhall be aſſured that he is your owne; the
+<note n="*" place="margin">Mat. 13.46.</note> Pearle muſt be bought, doe then as the Buyer, 1.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> See you want the Commoditie; 2. That it is to be had;
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> 3.
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> What a pleaſure it would doe you, and what a benefit to you to have it; 4.
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> Thereupon take liking to it, to deſire it; 5.
+<milestone type="tcpmilestone" unit="unspecified" n="5"/> Conſi<g ref="char:EOLhyphen"/>der on what Termes, and
+<pb n="90" facs="tcp:169905:51"/>at what Rate it is to be had, (for there is no ha<g ref="char:EOLhyphen"/>ving of Chriſt, but at Gods Rate, you muſt ſo take him, or let him a<g ref="char:EOLhyphen"/>lone.)
+<milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. Conſent there<g ref="char:EOLhyphen"/>to to give God his asking and demands, <hi>viz.</hi> to give him your heart, to be all for him; to renounce your ſins and ſinfull luſts, &amp;c. If thus you conſent to it, with good liking, the bar<g ref="char:EOLhyphen"/>gain is ſtricken up, Chriſt is yours; yea though, the whole be not performed in preſent, but an earneſt laid down in true part of payment (for you muſt be in good earneſt) and the
+<pb n="91" facs="tcp:169905:51"/>Remainder from time to time continually after<g ref="char:EOLhyphen"/>ward, <hi>viz.</hi> daily to part with ſin, and your corrup<g ref="char:EOLhyphen"/>tions more, and to grow more holy, to give the Lord your heart, in loving and delighting more in him, and ſeeking of him, &amp;c. yet the Earneſt makes the Bargaine, if in good Truth of heart you con<g ref="char:EOLhyphen"/>ſent &amp; begin theſe things. 7.
+<milestone type="tcpmilestone" unit="unspecified" n="7"/> Then take up your bar<g ref="char:EOLhyphen"/>gaine and carry it away with you rejoycing, as did the Eunuch, <hi>Act.</hi> 8.39. now you may be ſure that Chriſt is yours, having thus made the Bargaine,
+<pb n="92" facs="tcp:169905:52"/>unleſſe you thinke God will fly from his bargain, and not performe; which farre be it from your thoughts.
+<note place="margin">Num. 23.19.</note> 
+                  <hi>He is not as man that he ſhould repent.</hi>
+               </p>
+               <p n="6">6. It is an eſpeciall help to beleeving to obſerve well the right grounds thereof, ſhewed before CHAP. 6. and to take heed of the wrong grounds, which is when the hum<g ref="char:EOLhyphen"/>bled ſinner lookes to find ſomething in himſelfe, to perſwade him to it, as the fruits of Sanctification, and Evangelicall Repen<g ref="char:EOLhyphen"/>tance, to forſake his ſins out of love to God, &amp;c.
+<pb n="93" facs="tcp:169905:52"/>and is afraid, and dares not be perſwaded he ſhall be ſaved by Chriſt, un<g ref="char:EOLhyphen"/>leſſe he finde theſe firſt, which as they appeare more or leſſe, ſo he be<g ref="char:EOLhyphen"/>leeves accordingly; but when this humbled Soule longing truly after Chriſt findes not (for that fol<g ref="char:EOLhyphen"/>lowes upon our appre<g ref="char:EOLhyphen"/>henſion of Gods love to us by Chriſt) though faith be conceived in him, yet hath he no power to bring forth in a ſetled perſwaſion, nay, he is ſo ſtumbled, that in ſtead of drawing on to the per<g ref="char:EOLhyphen"/>ſwaſion of Faith, he is
+<pb n="94" facs="tcp:169905:53"/>further ſet off from it.</p>
+               <p>So then there are two wayes in uſe with thoſe that are honeſtly minded, thirſting after <hi>Christ,</hi> whereby they labour to bring forth Faith, in get<g ref="char:EOLhyphen"/>ting a true perſwaſion. The firſt is by pitching on the right grounds mentioned CHA. 6. wher<g ref="char:EOLhyphen"/>to I referre you, not loo<g ref="char:EOLhyphen"/>king to any thing in themſelves, any more then Preparation by ſound Humiliation: The other way is when they looke to finde firſt ſome fruits of ſound Grace, before they be per<g ref="char:EOLhyphen"/>ſwaded
+<pb n="95" facs="tcp:169905:53"/>of their Salvation by Chriſt, elſe think they ſhould preſume (but thats a great miſtake) this is a further way about, and more unco<g ref="char:cmbAbbrStroke">̄</g>fortable, wher<g ref="char:EOLhyphen"/>in alſo when they have wheel'd about, perhaps a great part of their life, it muſt fall into the other way at laſt to.</p>
+               <p n="1">1. Theſe the Temptor playes upon exceedingly, as if a man ſhould let a young Tree lie above ground, and not ſet it in the Soyle, till he firſt ſee what fruit it will beare, or as if one ſhould be afraid, and refuſe to eat, till he
+<pb n="96" facs="tcp:169905:54"/>firſt feele ſome working and Effect of food in him.</p>
+               <p n="2">2. They that take the former way, ſhall thrive and grow more in a moneth, then the other ſhall doe in a yeare, as a Science skilfully put into the Stocke growes more in one yeare then another in three, that is not well ſet in, and beſides often cropt to, though ſome ſap in it.</p>
+               <p n="3">3. The latter way is full of continuall uncertaintie, perplexed with more cares, feares and doubt<g ref="char:EOLhyphen"/>ings; for as they finde abatings and coolings,
+<pb n="97" facs="tcp:169905:54"/>ebbes and flowes, ſo doth their perſwaſion ebbe and flow; If one be ſet for<g ref="char:EOLhyphen"/>ward in it one day, he will be ſet back again two for it; he is ſo cloyed and ti<g ref="char:EOLhyphen"/>red with thoughts of his own unworthineſſe, with fruitleſs fears and doubts, that he cannot apply him<g ref="char:EOLhyphen"/>ſelfe to goe on cheerfully in godly practice.</p>
+               <p n="4">4. They that take this latter way, hang longer in the Birth with paine and diſcomfort; yea, they put themſelves to a great deal more pain then they need, <hi>Paine which ſhall not profit:</hi>
+                  <note place="margin">Jer. 12.13.</note> whereas the former with
+<pb n="98" facs="tcp:169905:55"/>more comfort are more ſpeedily delivered, and to their great Joy bring forth Faiths true perſwa<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>
+                  <hi>Obj.</hi> To what uſe then ſerve ſanctifying Graces and Fruits, the ſignes of our Salvation? are they needleſſe?</p>
+               <p>
+                  <hi>Anſ.</hi> No: they are of excellent uſe, for they ſerve,</p>
+               <p n="1">1. To diſcover to men their Eſtate that they be<g ref="char:EOLhyphen"/>leeve, for all that truly be<g ref="char:EOLhyphen"/>leeve have theſe things undoubtedly upon their beleeving, but not before; they ſerve not to put the
+<pb n="99" facs="tcp:169905:55"/>Sience into the Stocke, that is, to ſet us into Chriſt, but to declare that we are in him.</p>
+               <p n="2">2. They ſerve comfor<g ref="char:EOLhyphen"/>tably to confirme us in Beleeving, not to bring us to beleeve; as love-tokens betweene friends, which are not the Ground of their firſt good-will, but lively Demonſtrations thereof, and ſo ſerve to confirme it further, as to this uſe ſerve the holy Sacraments.</p>
+               <p n="3">3. They are Faiths ſun<g ref="char:EOLhyphen"/>beames (as the Sun<g ref="char:EOLhyphen"/>beames are to the Sunne) whereby it hath its wor<g ref="char:EOLhyphen"/>king
+<pb n="100" facs="tcp:169905:56"/>and operation in us and by us to the glorify<g ref="char:EOLhyphen"/>ing of God.</p>
+               <p n="2">2 <hi>Object.</hi> Doth not the Scripture ſay, <hi>The unrigh<g ref="char:EOLhyphen"/>teous ſhall not inherite the Kingdome of God.</hi> Were it not folly then for me to beleeve I ſhould be ſaved before I find my ſelf ſuch an one?</p>
+               <p>
+                  <hi>Anſ.</hi> Beleeve, and thou art righteous, for firſt thy <hi>Faith is accounted to thee for Righteouſneſſe;</hi> and Chriſts Righteouſneſſe becomes thine; and ſe<g ref="char:EOLhyphen"/>condly, by Faith thou partakeſt of inherent per<g ref="char:EOLhyphen"/>ſonall Righteouſneſſe.</p>
+               <p n="3">
+                  <pb n="101" facs="tcp:169905:56"/>3 <hi>Obj.</hi> None ſhall be ſaved, but they that are ſanctified, Gods Word tels us; How can it then be ſafe or true for me to beleeve I ſhall be ſaved, till I ſee my Sanctificati<g ref="char:EOLhyphen"/>on?</p>
+               <p>
+                  <hi>Anſ.</hi> It is true, you can<g ref="char:EOLhyphen"/>not be ſaved, unleſſe you firſt be ſanctified; but it's as true, you cannot be ſanctified unleſſe you firſt
+<note n="*" place="margin">
+                     <hi>Immundi omnes quos non mun<g ref="char:EOLhyphen"/>dat ſides Chriſti.</hi> Aug. En<g ref="char:EOLhyphen"/>clir c. 75.</note> beleeve; and unleſſe it be by this meanes you ſhall never be ſanctified: San<g ref="char:EOLhyphen"/>ctification comes by Be<g ref="char:EOLhyphen"/>leeving.</p>
+               <p n="2">2. You are as ſoon ſan<g ref="char:EOLhyphen"/>ctified as juſtified, and
+<pb n="102" facs="tcp:169905:57"/>you might as well object, Should I beleeve that I unjuſtified ſhall be ſaved? No; for in beleeving thou art juſtified; and ſo it is for Sanctification. But re<g ref="char:EOLhyphen"/>member I have ſpoken all this while of the broken-hearted ſinner, ſufficiently humbled and prepared at leaſt for beleeving, what<g ref="char:EOLhyphen"/>ever more he hath attai<g ref="char:EOLhyphen"/>ned; I ſpeake of no o<g ref="char:EOLhyphen"/>ther, ſo underſtand me, and then you take me right.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="103" facs="tcp:169905:57"/>
+               <head>CHAP. 10. <hi>The ſeat or ſubject of ſaving Beliefe.</hi>
+               </head>
+               <p>THis is of ſome uſe, for one may the better finde a good thing, if he once know the very right place where it lieth; the Seat and proper place of its abode and reſidence, I take to be the Soule, ra<g ref="char:EOLhyphen"/>ther then any one particu<g ref="char:EOLhyphen"/>lar facultie of it alone; for Faith ſhewes it ſelfe, and its vertue in the ſeverall faculties of the Soule; as in the Will by accepting of Chriſt, in the Heart by truſting and relying on
+<pb n="104" facs="tcp:169905:58"/>him, in the Underſtan<g ref="char:EOLhyphen"/>ding by perſwaſion, in the Conſcience by Aſſu<g ref="char:EOLhyphen"/>rance: And I conceive it to be after this order thus: after that the underſtan<g ref="char:EOLhyphen"/>ding of a diſtreſſed Soule is enlightned to ſee a ſuffi<g ref="char:EOLhyphen"/>cient meanes <hi>[Chriſt]</hi> of<g ref="char:EOLhyphen"/>fered freely to him, then firſt the heart (if one be<g ref="char:EOLhyphen"/>long to God) is affected therewith, and earneſtly deſires it, viz. <hi>whole Chriſt;</hi> here Faith begins, for this (in the humbled Soule) drawes with it inſepara<g ref="char:EOLhyphen"/>bly ſecondly an act of the Will, to wit, the accep<g ref="char:EOLhyphen"/>ting of it, (for whatſoever
+<pb n="105" facs="tcp:169905:58"/>is deſired, the will choo<g ref="char:EOLhyphen"/>ſeth and accepteth of) it accepteth of it in making choice of Chriſt above all, and in Reſolution to hold faſt to him, and ne<g ref="char:EOLhyphen"/>ver to forgoe him; then the work runs back again to the heart to reſt and truſt on him; thence to the underſtanding to be perſwaded of our Soules welfare by him, thence to the Conſcience, when as the partie by a reflected act knowes that he be<g ref="char:EOLhyphen"/>leeves, that is, that he is perſwaded truly, and ſo is aſſured of his Salvation, &amp;c.</p>
+               <pb n="106" facs="tcp:169905:59"/>
+               <p>
+                  <hi>Object.</hi> Rom. 10.10. <hi>With the heart man beleeveth.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> He ſaith not onely with the heart; but the heart here is put for the whole Soule, as it is frequently in
+<note n="*" place="margin">Ezek. 36.26. Pſal. 108.1. Job 38.36 1 Pet. 3.4. 1 Joh. 3.20. Iſai. 6.10.</note> Scripture elſewhere; and that it is ſo meant here, appeares by the <hi>contra</hi> diſtinction it beares to the mouth and outward man. <hi>ver.</hi> 9.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. 11. <hi>The immediate Effects fol<g ref="char:EOLhyphen"/>lowing upon ſound Belee<g ref="char:EOLhyphen"/>ving.</hi>
+               </head>
+               <p>HEE that hath it wrought in him, is
+<pb n="107" facs="tcp:169905:59"/>preſently brought as it were into a new world, and like as it was with <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> when he was come to himſelfe, after his mi<g ref="char:EOLhyphen"/>raculous deliverance out of priſon by an Angel, looſed from his Chaines, and paſſing through the iron gate, the caſe was much altered, and he in an Extaſie. Theſe Effects or gratious diſpoſitions im<g ref="char:EOLhyphen"/>mediately follow in the true beleever.</p>
+               <p n="1">1. True Love to God, which could not be be<g ref="char:EOLhyphen"/>fore, for the apprehenſion of his love to us, kindles love in us to him, as a
+<pb n="108" facs="tcp:169905:60"/>Sparke or burning Coale lights the Candle, or ſets the wood on flame: Now we love God cordially, more then one that ſhould ſave our life: it appeares thus:</p>
+               <p n="1">1. It makes us love him above our ſelves, or any other; in that we ſee he hath done more for us then we could or would doe for our ſelves, or any other could doe for us.</p>
+               <p n="2">2. To ſtudy how to grati<g ref="char:EOLhyphen"/>fie him, and to think what ſhal I render to the Lord? <hi>Pſal.</hi> 116.12. and willing to be at coſt and paines for him, and how to pleaſe him beſt.</p>
+               <p n="3">
+                  <pb n="109" facs="tcp:169905:60"/>3. To love as he loves, and hate as he hates.</p>
+               <p n="2">2. Hatred of ſin, not as before, <hi>viz.</hi> becauſe our bane only; but becauſe it's cleane contrary to God, and his holy and pure Nature, for if we love one thing of neceſſitie, we hate the contrarie to it, thus loving ſweet we hate ſowre, loving Light we abhorre darkneſſe, loving pleaſure, we cannot abide paine.</p>
+               <p n="3">3. Godly or Evangeli<g ref="char:EOLhyphen"/>call Sorrow, which is ſor<g ref="char:EOLhyphen"/>row for our ſinnes, out of love to God, and becauſe they are offence and
+<pb n="110" facs="tcp:169905:61"/>wrong to him, who is ſo infinitely good to us: It differs farre from world<g ref="char:EOLhyphen"/>ly ſorrow which was in <hi>Nabal, Ahab,</hi> &amp;c. for that worketh death, 2 <hi>Cor.</hi> 7.10. but this life: and it differs from <hi>Legall</hi> ſorrow for ſin, which was in <hi>Iudas,</hi> for,</p>
+               <p n="1">1. That breakes the heart, but this melts it, as if the Icicles have the Sun ſhine on them, they muſt needs melt, and if <hi>Chriſt the Sun of Righteouſneſſe</hi> be rightly applyed to the Soule, this melting Effect will undoubtedly follow in the heart, making it
+<pb n="111" facs="tcp:169905:61"/>plyable to receive any gracious Impreſſion.</p>
+               <p n="2">2. That is chiefly in time of Humiliation, for as Godly ſorrow comes on, ſo the other weares out.</p>
+               <p n="3">3. That ariſes out of horrour of Conſcience, but this out of love of God and his goodneſſe.</p>
+               <p n="4">4. That is only for the puniſhment, but this for the ſinne.</p>
+               <p n="4">4. Sound and ſweet peace inwardly, which though it's not perfect, yet Con<g ref="char:EOLhyphen"/>ſciences trouble is finely allayed, and it is better ſa<g ref="char:EOLhyphen"/>tisfied and findes more
+<pb n="112" facs="tcp:169905:62"/>eaſe then before; as after the plucking out of a ſting or thorne is more eaſe, yet not perfect riddance of all paine; <hi>Being juſtified by Faith, we have peace with God,</hi> Rom. 5.1. the ſting of ſinne is the damning power of it, which upon our beleeving is plucked out and taken away. <hi>Rom.</hi> 8.1. hereupon followes eaſe in Conſcience.</p>
+               <p>
+                  <hi>Q.</hi> How may one know whether it bee ſound peace?</p>
+               <p>
+                  <hi>Anſ.</hi> If it follow a ſound cure of the wound firſt made and felt in Conſci<g ref="char:EOLhyphen"/>ence; for elſe it's but a
+<pb n="113" facs="tcp:169905:62"/>ſtill and ſecure Conſci<g ref="char:EOLhyphen"/>ence, and like one that hath a thorne in his fleſh, and he aſleep, though he feele it not, the raging of it is as much and the dan<g ref="char:EOLhyphen"/>ger greater, for ſo long he uſeth no means againſt it.</p>
+               <p n="5">5. Spirituall Joy, <hi>The God of hope fill you with all Ioy and Peace in beleeving,</hi> ſaith PAUL, <hi>Rom.</hi> 15.13. and <hi>my heart truſted in him, therefore my heart greatly rejoyceth,</hi> ſaith DA<g ref="char:EOLhyphen"/>VID, <hi>Pſal.</hi> 28.7. This is not naturall Joy, rejoycing in thigns pleaſing to nature; nor worldly Joy, in the things of this world,
+<pb n="114" facs="tcp:169905:63"/>much leſſe wicked Joy in doing evill, but ſpirituall; Joying in the Spirituall benefits and priviledges of Grace, called Joy of the <hi>Holy Ghoſt,</hi> very like that new Song, <hi>which no man could learne, but they which were redeemed from the earth.</hi> Rev. 14.3.</p>
+               <p n="6">6. An holy Conſecra<g ref="char:EOLhyphen"/>tion or Reſigning up our ſelves wholly to Chriſt, <hi>Rom.</hi> 12.1. For if we be<g ref="char:EOLhyphen"/>leeve truly that Chriſt gave himſelfe to death for us, it will make us accor<g ref="char:EOLhyphen"/>ding to reaſon give our ſelves wholly to him a<g ref="char:EOLhyphen"/>gaine; as in Marriage, very
+<pb n="115" facs="tcp:169905:63"/>Reaſon requires a mutuall giving of themſelves each to other.</p>
+               <p>
+                  <hi>Q.</hi> How?</p>
+               <p>
+                  <hi>Anſ.</hi> By making a Co<g ref="char:EOLhyphen"/>venant in good earneſt with Chriſt to be all for him, and not to be any more for the world, or for deareſt Friends, or our owne ſelves any further then will agree with our being for him.</p>
+               <p n="7">7. Love to the Godly, which before we could worſt abide, as <hi>Paul</hi> new<g ref="char:EOLhyphen"/>ly converted cleaves hear<g ref="char:EOLhyphen"/>tily to thoſe whom before he perſecuted, <hi>Act.</hi> 9.19, 26. and as new kindred
+<pb n="116" facs="tcp:169905:64"/>that come by Marriage, are much made on, being before but as ſtrangers and of ordinarie account: Faith in Chriſt and love to all the Saints go toge<g ref="char:EOLhyphen"/>ther, <hi>Eph.</hi> 1.15. Such now are called to us, <hi>Pſ.</hi> 66.16. <hi>Come all ye that feare God,</hi> others are ſhaken off and ſent packing, <hi>Pſal.</hi> 119.115. <hi>Depart from me, ye evill doers;</hi> though before our greateſt Companions.</p>
+               <p n="8">8. Unfained Wiſhing, and endeavouring of o<g ref="char:EOLhyphen"/>thers beleeving, <hi>Act.</hi> 26.29. <hi>Rom.</hi> 10.1. becauſe now (and not till now) we have true love in us to
+<pb n="117" facs="tcp:169905:64"/>God, and others; for true Charitie is a proper fruit of true Faith only; ma<g ref="char:EOLhyphen"/>king us aime at the grea<g ref="char:EOLhyphen"/>teſt good of others, that is of their Soule.</p>
+               <p>Theſe are ſome imme<g ref="char:EOLhyphen"/>diate Effects, or holy ſtir<g ref="char:EOLhyphen"/>rings following inſtantly upon our quickning by Faith in Chriſt, in every one more or leſſe, though not in all alike: where<g ref="char:EOLhyphen"/>withall note, that Faith quickens, as ſoone as it is conceived, as in CHAP. 5.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="118" facs="tcp:169905:65"/>
+               <head>CHAP. 12. <hi>The Excellencie of ſaving Beliefe.</hi>
+               </head>
+               <p>WHo is able to ſound forth all its praiſe, whoſe Price is above the Pearles? yet to give a taſte, It is more worth then the whole world, or any precious thing therein, yea, then Gold, 1 <hi>Pet.</hi> 1.7. we may ſay, Glorious things are ſpoken of thee, thou Grace of God, and (as the queen of <hi>Sheba</hi> of <hi>Salomon</hi>) <hi>thou exceedest the fame that we have heard:</hi> no money, or monies-worth can buy
+<pb n="119" facs="tcp:169905:65"/>it if one have it not, and if he have it once, no<g ref="char:EOLhyphen"/>thing can make him part with it.</p>
+               <p n="1">1. It is a defence againſt all evill, as againſt the De<g ref="char:EOLhyphen"/>vill, it's a ſhield where<g ref="char:EOLhyphen"/>with we quench his fiery darts, yea, a ſhield of Gods own making, <hi>Epheſ.</hi> 6.11. and 16. ſo againſt the world, <hi>the victory that overcomes the world,</hi> Joh. 5.4. againſt ſinne and the fleſh, <hi>They that are Chriſts have crucified the fleſh with the affections and luſts,</hi> Gal. 5.24. againſt men:
+<note place="margin">Heb. 11.33, 34. &amp;c.</note> It made <hi>David</hi> not afraid of ten thouſands of people,
+<pb n="120" facs="tcp:169905:66"/>
+                  <hi>Pſal.</hi> 3.6. againſt the Crea<g ref="char:EOLhyphen"/>tures, the very Lions could doe <hi>Daniel no man<g ref="char:EOLhyphen"/>ner of hurt, becauſe he be<g ref="char:EOLhyphen"/>leeved in his God.</hi> Dan. 6.23.</p>
+               <p>
+                  <hi>Object.</hi> But ſometimes they both hurt and kill the faithfull.</p>
+               <p>
+                  <hi>A.</hi> It is no hurt, though it ſeemes ſo, <hi>Rom.</hi> 8.28. what hurt doth the Chi<g ref="char:EOLhyphen"/>rurgion in lancing the fleſh to cure an Im<g ref="char:EOLhyphen"/>poſthume and ſave the life? nay, they hurt not the faithfull, though they kill them; for what hurt is death to a good man? ſo that Faith is a Coat of
+<pb n="121" facs="tcp:169905:66"/>Male, and Armour of proofe againſt all evill, yea ſpirituall alſo, as death of Soul, <hi>He that beleeveth in me ſhall never dye,</hi> ſaith Chriſt. <hi>Ioh.</hi> 11.26. the curſe; <hi>Christ hath redee<g ref="char:EOLhyphen"/>med ſuch from the curſe of the Law,</hi> Gal. 3.13. Con<g ref="char:EOLhyphen"/>demnation there is none to ſuch. <hi>Rom.</hi> 8.1.</p>
+               <p n="2">2. It is as all the five Senſes to the Soule, <hi>It taſtes and ſees that the Lord is good.</hi> Pſal. 34.8. <hi>It heares the Lord ſpeake peace.</hi> Pſal. 85.8. It ſmels the ſavour of <hi>Christs</hi> good Oynt<g ref="char:EOLhyphen"/>ments. <hi>Cant.</hi> 1.3. It touch<g ref="char:EOLhyphen"/>eth <hi>Chriſt,</hi> and feeles his
+<pb n="122" facs="tcp:169905:67"/>vertue. <hi>Luke</hi> 8.46, 47, any one Senſe is of much eſteeme, but all in one is of moſt excellent worth, ſuch a thing is Faith to the Soule, and that Soule that wants it may be ſaid to want its Senſes.</p>
+               <p n="3">3. As the Soule is to the Body, that which keeps it alive, ſo is Faith to the Soule; nay more, for it keeps it alive for ever, that it ſhall never die more: What would men give for ſuch a thing as would keep the body ever alive? how much better is this? It is as Salt that keeps the Soule from corruption,
+<pb n="123" facs="tcp:169905:67"/>nay, which is more it fetcheth it againe when before it was moſt odi<g ref="char:EOLhyphen"/>ouſly corrupted.</p>
+               <p n="4">4. It is a deare Friend indeed unto us, that will ſtand us more in ſtead, and doe more for us then all our friends, then all the world, yea then our own father and mother, wife or husband, &amp;c. It doth us many excellent Offices: It's as the hand to receive Chriſt, <hi>Ioh.</hi> 1.12. to helpe the hungry ſoule to food, and the thirſtie Soule to drink, <hi>Iſai.</hi> 55.1. to clothe the naked ſoule with the beſt Rayment, it puts the
+<pb n="122" facs="tcp:169905:68"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="123" facs="tcp:169905:68"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="124" facs="tcp:169905:69"/>Lord Jeſus on us, <hi>Rom.</hi> 13.14. It puls out ſin as a Thorne in the heart, <hi>Act.</hi> 15.9. and applies Chriſt as a plaiſter to the wound. All theſe offices it doth as a bleſſed hand.</p>
+               <p n="5">5. It helps us to every good thing. <hi>Whatſoever you ſhall aske in Prayer be<g ref="char:EOLhyphen"/>leeving, ye ſhall receive. Matth.</hi> 21.22. ſo that if we want not faith, we cannot want any good thing.</p>
+               <p n="6">6. It is of that excellent vertue, that it turnes all our Croſſes and Loſſes into gaine unto us, <hi>Rom.</hi> 8.28. if not one way, yet another; if not in one
+<pb n="125" facs="tcp:169905:69"/>yeere, yet in another; that our loſſes ſhall be but as the letting out or loſſe of ſuperfluous bloud, for the gaining of more health and ſaving of life.</p>
+               <p n="7">7. It prevents time, and makes things future to be preſent, as an <hi>Optick</hi> Glaſſe, that drawes things neere and preſents them to the ſenſe, that were a great way off before. <hi>Heb.</hi> 11.13.</p>
+               <p n="8">8. It is our Ballaſt in the dangerous Seas and waves of Temptations, that keepes us well ſet<g ref="char:EOLhyphen"/>led; and from periſhing by an unballaſt lightneſſe
+<pb n="126" facs="tcp:169905:70"/>tottering and reeling eve<g ref="char:EOLhyphen"/>ry way, 1 <hi>Cor.</hi> 15.58.</p>
+               <p n="9">9. This of all things is that for which God re<g ref="char:EOLhyphen"/>ſpecteth us; our wealth, beautie, wit, learning, ho<g ref="char:EOLhyphen"/>nour may make us accep<g ref="char:EOLhyphen"/>ted of men, but it is our Faith onely, that maketh God in love with us.</p>
+               <p n="10">10. It is like the Load<g ref="char:EOLhyphen"/>ſtone, for as that pointeth ever at the North, and hath power attractive; ſo Faith pointeth ever at Chriſt, for any thing the Soule needs: yea, drawes him to the Soule.</p>
+               <p n="11">11. It is ſuch an admi<g ref="char:EOLhyphen"/>rable thing, as <hi>Chriſt</hi> him<g ref="char:EOLhyphen"/>ſelfe
+<pb n="127" facs="tcp:169905:70"/>wonders at it, as we ſee in the Centurion, <hi>Mat.</hi> 8.10. we never finde him wondering at Silver or Gold, or coſtly apparell, or goodly ſights, no not at the Frame of Heaven and earth, but at this he doth: Oh then how good, how great a thing is true Faith! how rich a Jewell!</p>
+               <p n="12">12. It is our Credit and good report, <hi>Heb.</hi> 11.2, 3, 13. it payes all our ſoules debts, that none can claime any thing. <hi>Rom.</hi> 8.33.</p>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="128" facs="tcp:169905:71"/>
+               <head>CHAP. 13. <hi>The Neceſsitie of it.</hi>
+               </head>
+               <p>SAving Faith is of ab<g ref="char:EOLhyphen"/>ſolute Neceſſitie; not ſuch a Thing as is conve<g ref="char:EOLhyphen"/>nient and uſefull as a good helpe, yet ſo as that a man may make ſhift without, like a Staffe to a Travellor, this is not ſo; but as Legs and Eyes to a Travellor, without which is no travelling in the way to Heaven poſſibly.</p>
+               <p n="1">1. Without this we are deſtitute of all Friends, we have never a friend to help us, being forſaken of all, of God, of Chriſt, and
+<pb n="129" facs="tcp:169905:71"/>the Creatures, for they take part with the Crea<g ref="char:EOLhyphen"/>tor, and are Friends to none but his Friends.</p>
+               <p n="2">2. Without this all
+<note n="*" place="margin">ſuch on<g ref="char:EOLhyphen"/>ly <hi>materi<g ref="char:EOLhyphen"/>alitèr.</hi>
+                  </note> good works are loſt un<g ref="char:EOLhyphen"/>to us, as 1. Hearing Gods Word. <hi>The Word preached profited not them, being not mixed with faith. Heb.</hi> 4.2. yea, though we goe never ſo farre, or heare never ſo often, with great paines, and no leſſe coſt. 2. The Uſe of the Sacraments, as the Iſraelites that did eat the ſame <hi>ſpirituall meat, and dranke the ſame ſpiri<g ref="char:EOLhyphen"/>tuall drinke,</hi> ſacramentally as we doe, yet <hi>With many
+<pb n="130" facs="tcp:169905:72"/>of them God was not well pleaſed.</hi> 1 <hi>Cor.</hi> 10.4, 5. for want of Faith. 3. Even Prayer is but prating and lying without this, <hi>Pſal.</hi> 78.34, 36. and for all other works either of pie<g ref="char:EOLhyphen"/>tie towards God, or Cha<g ref="char:EOLhyphen"/>ritie toward men, they are all but meerly loſt unto us, if we have not ſaving Beliefe within us, as it was with them that took pains in helping to build <hi>Noahs</hi> Arke, but periſhed them<g ref="char:EOLhyphen"/>ſelves at laſt in the floud: or as they which take paines in digging, ſetting, &amp; planting ſeere boughes of Trees, doe but looſe
+<pb n="131" facs="tcp:169905:72"/>their labour and ſhew their follie.</p>
+               <p n="3">3. Nay one cannot poſ<g ref="char:EOLhyphen"/>ſibly doe a
+<note n="*" place="margin">viz. For<g ref="char:EOLhyphen"/>malitèr.</note> good worke without this, for <hi>without faith it is impoſsible to pleaſe God. Heb.</hi> 11.6. It being a Chriſtians chiefeſt inſtru<g ref="char:EOLhyphen"/>ment, as the work-man can doe no worke, if he want his principall Toole as Axe, or Hammer, &amp;c. or if he doe any thing, it will be but a Botch, that will give no good liking: therefore this we muſt have, and that of Neceſſi<g ref="char:EOLhyphen"/>tie whatſoever ſhift we make for it, whatſoever it coſt to get; or elſe it had
+<pb n="132" facs="tcp:169905:73"/>been better for us, if we had never been born.</p>
+               <p>Which ſeeing it is of ſuch abſolute neceſſitie, it behoves every one to make as much ſpeed to get it as may be.</p>
+               <p>
+                  <hi>Queſt.</hi> But may not one make too much haſte to beleeve?</p>
+               <p>
+                  <hi>Anſ.</hi> Yes, if they over<g ref="char:EOLhyphen"/>run ſound Humiliation, they make more haſte then good ſpeed, but if one have been ſoundly humbled as was ſhewed CHAP. 3. then let him make as much haſt as he can to beleeve; for theſe Reaſons:</p>
+               <p n="1">
+                  <pb n="133" facs="tcp:169905:73"/>1. We cannot beleeve too ſoone, if we beleeve truly; we cannot make too much haſte to obey God, who bids ſuch be<g ref="char:EOLhyphen"/>leeve. <hi>Matt.</hi> 11.28.</p>
+               <p n="2">2. God doth not ſtint us to any certaine time of continuance, in the com<g ref="char:EOLhyphen"/>fortleſſe condition of Hu<g ref="char:EOLhyphen"/>miliation, ſo it be ſound.</p>
+               <p n="3">3. Thoſe <hi>Act.</hi> 2.37. and <hi>Lydia, Act.</hi> 16. and the Jaylor, <hi>Act.</hi> 16.34. and the Eunuch, <hi>Act.</hi> 8.30. and <hi>Paul, Act.</hi> 9. and many o<g ref="char:EOLhyphen"/>thers beleeved immedi<g ref="char:EOLhyphen"/>ately upon the proffer: yea, God himſelfe prea<g ref="char:EOLhyphen"/>ched comfort to <hi>Adam</hi>
+                  <pb n="134" facs="tcp:169905:74"/>and <hi>Eve</hi> immediately up<g ref="char:EOLhyphen"/>on their Legall Conſter<g ref="char:EOLhyphen"/>nation.</p>
+               <p n="4">4. One may be in dan<g ref="char:EOLhyphen"/>ger of doing himſelfe miſchiefe in the <hi>Interim,</hi> out of horrour before ſome ſparke of Beleeving bring light and comfort to prevent it.</p>
+               <p n="5">5. As to delay our re<g ref="char:EOLhyphen"/>penting when God bids us is a great ſinne, ſo to deferre our Beleeving, is no leſſe, if not a greater ſinne.</p>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="135" facs="tcp:169905:74"/>
+               <head>CHAP. 14. <hi>How to know whether we have this ſaving Beliefe or no.</hi>
+               </head>
+               <p>THe firſt way to know whether we have it, is duly to conſider whether we be not of the number of thoſe that have it not: Who are they?</p>
+               <p n="1">1. Groſſe ignorant ones, I meane ſuch, who as they have not heavenly know<g ref="char:EOLhyphen"/>ledge; ſo they deſire it not, nor care to take pains for it, this is a blind Faith which cannot ſee to get into Heaven; <hi>Flaming fire</hi> is provided for ſuch,
+<pb n="136" facs="tcp:169905:75"/>2 <hi>Theſ.</hi> 1.8. if the Sun look into a dungeon it muſt needs be inlightned, ſo is Chriſt to the Soule.</p>
+               <p n="2">2. Looſe ones, and ſuch as are of prophane life, who ſhall receive the ſame reward of <hi>Vengeance</hi> with the former in fla<g ref="char:EOLhyphen"/>ming fire at Chriſts com<g ref="char:EOLhyphen"/>ming, becauſe they obey him not now, 2 <hi>Theſ.</hi> 1.8. <hi>Gal.</hi> 5.21.</p>
+               <p n="3">3. Worldlings, they are enemies to God. <hi>Jam.</hi> 4.4.</p>
+               <p n="4">4. Such as are meere Civill ones, in whom the Plague-ſore of ſin is but ſtricken in, not cured, but more dangerous: they
+<pb n="137" facs="tcp:169905:75"/>cannot be ſaved. <hi>Matth.</hi> 5.20.</p>
+               <p n="5">5. Such as have not ſo much as hiſtoricall Faith, <hi>viz.</hi> to beleeve that God ſpeakes true in all points: as that giving is the way to have more, <hi>Luke</hi> 6.38. that we muſt not labour to be rich, <hi>Prov.</hi> 23.4. that Godlineſſe is moſt gaine<g ref="char:EOLhyphen"/>full, 1 <hi>Tim.</hi> 6.6. that no<g ref="char:EOLhyphen"/>thing is to be gotten by ſin, <hi>Iob</hi> 33.27. that ill got<g ref="char:EOLhyphen"/>ten wealth ſhall doe us no good, <hi>Prov.</hi> 10.2. that a broken heart pleaſeth God beſt, that to loath our ſelves is the way to have the Lord to love us, &amp;c.</p>
+               <p n="6">
+                  <pb n="138" facs="tcp:169905:76"/>6. Hypocrites, <hi>Mat.</hi> 24.51. contenting themſelves with the formes of God<g ref="char:EOLhyphen"/>lineſſe, but care not for the inward power and true efficacie of it: theſe have but a rotten heart skinned over.</p>
+               <p n="7">7. Such as make light of it, and thinke it is eaſily gotten without any great adoe; they that ſlight it, want it.</p>
+               <p n="8">8. They that thinke it impoſſible to be got; theſe
+<note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Cowards are unbelee<g ref="char:EOLhyphen"/>vers. <hi>Rev.</hi> 21.8. who ſhall have part in the burning lake.</p>
+               <p n="9">9. Slothfull ones, <hi>Prov.</hi>
+                  <pb n="139" facs="tcp:169905:76"/>19.15. that though they thinke it may be had, yet are ſo lazie, they will not take paines for it; remem<g ref="char:EOLhyphen"/>ber <hi>Mat.</hi> 25.26. thou wic<g ref="char:EOLhyphen"/>ked and ſlothfull ſervant.</p>
+               <p n="10">10. Preſumers, who are like dreamers, <hi>Iſai.</hi> 29.8. that have alwaies thought they had it alreadie, and therfore never went about the getting of it.</p>
+               <p n="11">11. Such as were never rightly humbled and bro<g ref="char:EOLhyphen"/>ken hearted for their ſins; the Grace of Faith, and Grace by Faith is given to none but the humble, 1 <hi>Pet.</hi> 5.5. <hi>The ſtout-hearted are farre from righteouſ<g ref="char:EOLhyphen"/>neſſe,</hi>
+                  <pb n="140" facs="tcp:169905:77"/>ſaith God, <hi>Iſa.</hi> 46.12.</p>
+               <p n="12">12. They that content themſelves with ſome flitting motions and vani<g ref="char:EOLhyphen"/>ſhing flaſhes of deſire af<g ref="char:EOLhyphen"/>ter it ſometimes; but be<g ref="char:EOLhyphen"/>ing quenched with the world come to nothing, as the young man, <hi>Matth.</hi> 19.16.</p>
+               <p n="13">13. Intire Familiars and Aſſociates with the un<g ref="char:EOLhyphen"/>godly; for they that give their heart to Gods ene<g ref="char:EOLhyphen"/>mies, give it not to him, he wants it if they have it: <hi>David</hi> liked not ſuch fel<g ref="char:EOLhyphen"/>lowſhip, <hi>Pſal.</hi> 26.5.</p>
+               <p n="14">14. Ambitious perſons, Chriſt ſaith, how can
+<pb n="141" facs="tcp:169905:77"/>they beleeve? <hi>Ioh.</hi> 5.44. Here are 14. ſeverall forts of unbeleevers (though profeſſing the Goſpel) if you find your ſelfe of the number of any of theſe, you may eaſily know how it is with you for the matter of ſaving Faith, namely that you have it not.</p>
+            </div>
+            <div n="15" type="chapter">
+               <head>CHAP. 15. <hi>Generall Notes of Tryall whereby to know it.</hi>
+               </head>
+               <p>I Hope none will be of<g ref="char:EOLhyphen"/>fended with me, for let<g ref="char:EOLhyphen"/>ting in more light into their hearts, to ſee them<g ref="char:EOLhyphen"/>ſelves
+<pb n="142" facs="tcp:169905:78"/>the better by it. Thus then you may know whether you have this <hi>ſaving Faith.</hi>
+               </p>
+               <p n="1">1. If it hath ſomething to ſhew for that which it beleeves concerning your Salvation, that is ſome word or writing from God to prove it to you, as one that is confident of a State of Land, or ſumme of Money belonging to him, will have ſomething to ſhew for it.</p>
+               <p n="2">2. If you be willing to prove and trie it your ſelfe, 2 <hi>Cor.</hi> 13.5. and wil<g ref="char:EOLhyphen"/>ling that any body elſe ſhould try it, yea the Lord
+<pb n="143" facs="tcp:169905:78"/>himſelfe, <hi>Pſal.</hi> 139.23.</p>
+               <p n="3">3. If there be a Spiritu<g ref="char:EOLhyphen"/>all Struggling and Con<g ref="char:EOLhyphen"/>flict in you betweene the fleſh and Spirit, not, that between Conſcience con<g ref="char:EOLhyphen"/>vinced and will, as was in
+<note n="*" place="margin">Joh. 19.12. &amp; 16.</note> 
+                  <hi>Pilate,</hi> but that, between the part regenerate and unregenerate, as was in <hi>Paul, Rom.</hi> 7.22, 23. which goes with an hatred of the fleſh, and love of the Spirit, holding with the Spirit againſt the fleſh, as true a Signe of our con<g ref="char:EOLhyphen"/>ceiving Chriſt by Faith, as <hi>Rebekahs</hi> ſtruggling was of her Conception.</p>
+               <p n="4">4. If it grow, 2 <hi>Theſ.</hi> 1.3.
+<pb n="144" facs="tcp:169905:79"/>as a living Child, or Tree is knowne from a dead one by the growing of it.</p>
+               <p>
+                  <hi>Object.</hi> I feele not a Growth and ſtronger Be<g ref="char:EOLhyphen"/>leeving, though I much deſire it.</p>
+               <p>
+                  <hi>Anſ.</hi> If you grow ſtron<g ref="char:EOLhyphen"/>ger in deſire, and endea<g ref="char:EOLhyphen"/>vour, then it growes ſtronger inward and in the Root, though not to ſight.</p>
+               <p n="2">2. If it make you daily more conſcionable and give you better warning of ſin, as a Clock giving warning is known to goe on, though you cannot ſee it move forward.</p>
+               <p n="5">
+                  <pb n="145" facs="tcp:169905:79"/>5. If it gaine by Oppo<g ref="char:EOLhyphen"/>ſition, and wax ſtronger by Reſiſtance (as one by often wraſtling growes more expert) and holds faſter to Chriſt, as the Travellor being aſſaulted by ſtormy weather holds his Cloake the faſter to him.</p>
+               <p n="6">6. If your End and Aime in beleeving, be (not to ſin more boldly and ſecurely, for then it's naught, but) to be able by that meanes to leave ſinning, and only to pleaſe GOD in all things, then well &amp; good.</p>
+            </div>
+            <div n="16" type="chapter">
+               <pb n="146" facs="tcp:169905:80"/>
+               <head>CHAP. 16. <hi>More ſpeciall Notes where<g ref="char:EOLhyphen"/>by ſaving Beliefe may be tried, and knowne.</hi>
+               </head>
+               <p>DIſtinctly thus; It may be known, firſt, by its
+<note n="*" place="margin">Antece<g ref="char:EOLhyphen"/>dentia.</note> 
+                  <hi>foregoers;</hi> and ſecondly, by its
+<note n="*" place="margin">Gonſe<g ref="char:EOLhyphen"/>quentia.</note> 
+                  <hi>followers.</hi>
+               </p>
+               <p>For the firſt, if it be lawfully come by, <hi>viz.</hi> by good and lawfull meanes, as Gods Word and wor<g ref="char:EOLhyphen"/>king of his Spirit, not by flattering Nature, ſelfe<g ref="char:EOLhyphen"/>conceit, &amp;c. That Faith is but as a ſtolne thing.</p>
+               <p n="2">2. If it be well bred, that is both by Law and Goſpel (as CHAP. 3. &amp; 4.)
+<pb n="147" facs="tcp:169905:80"/>things of the right breed, are of the right kind.</p>
+               <p n="3">3. If it were much lon<g ref="char:EOLhyphen"/>ged for, and with difficul<g ref="char:EOLhyphen"/>tie obtained, as <hi>Hannah</hi> obtained her <hi>Samuel.</hi>
+               </p>
+               <p n="4">4. If it came by way of bargayning for Chriſt, as CHAP. 9. was ſhewed.</p>
+               <p>For the ſecond, it may be known by its <hi>Followers,</hi> as a Noble man by his <hi>Traine</hi> and <hi>Reteinue;</hi> Nay, Faith may be more readi<g ref="char:EOLhyphen"/>ly and eaſily knowne by the
+<note n="*" place="margin">A Poſte<g ref="char:EOLhyphen"/>riori.</note> Fruits and Effects following, then by
+<note n="*" place="margin">A Priori.</note> the Cauſes, and things fore<g ref="char:EOLhyphen"/>going (though this be the ſurer) but both together
+<pb n="148" facs="tcp:169905:81"/>do beſt, as life by motion, fire by heat, the Sun by its Reflection on the wall, or in the water, a Seale by the print on wax may be as verily known, as if you looke upon the things themſelves: Now then beſides thoſe immediate effects of true <hi>Beleeving,</hi> mentioned CHAP. 11. it may be diſcerned by di<g ref="char:EOLhyphen"/>vers other, in time and af<g ref="char:EOLhyphen"/>terward, as thus:</p>
+               <p n="1">1. It is a Living Faith, both becauſe it hath Life and Operation in it <hi>Gal.</hi> 5.6. (It will
+<note n="*" place="margin">
+                     <hi>Si malè &amp; non be<g ref="char:EOLhyphen"/>nè opera<g ref="char:EOLhyphen"/>tur mortua eſt.</hi> Aug. Enchir. cap. 67.</note> worke for God and againſt ſin) as al<g ref="char:EOLhyphen"/>ſo becauſe it makes us a<g ref="char:EOLhyphen"/>live
+<pb n="149" facs="tcp:169905:81"/>to God, <hi>Rom.</hi> 6.13.</p>
+               <p n="2">2. It loves and deſires the Word, Gods Ordi<g ref="char:EOLhyphen"/>nances, and holy meanes. <hi>Pſal.</hi> 84.2. becauſe firſt it's begotten thereby (as a Childe or young thing beares love to the bree<g ref="char:EOLhyphen"/>ders) ſecondly, they are nouriſhment to it, as we being hungry love our food.</p>
+               <p n="3">3. It makes a new Crea<g ref="char:EOLhyphen"/>ture, purifying the heart, <hi>Act.</hi> 15.9. and playning the life. <hi>Rom.</hi> 6.4. It makes them vertuous, knowing Gods will, temperate, pa<g ref="char:EOLhyphen"/>tient, godly, which before were contrarie. 2 <hi>Pet.</hi> 1.5.
+<pb n="150" facs="tcp:169905:82"/>they therefore that joyne not to their Faith, <hi>vertue,</hi> but vice; not <hi>knowledge,</hi> but ignorance; not <hi>Tempe<g ref="char:EOLhyphen"/>rance,</hi> but intemperance; not <hi>Patience,</hi> but impati<g ref="char:EOLhyphen"/>ence; not <hi>Godlineſſe,</hi> but ungodlineſſe, their Faith is vaine: and they not be<g ref="char:EOLhyphen"/>ing new Creatures, are not true Beleevers; For Chriſt will draw all thoſe his way in conformitie after him, that partake of him; as the Loadſtone will draw the iron after it that comes within the reach of its vertue.</p>
+               <p n="4">4. It works repentance, and abandoning of ſin, for
+<pb n="151" facs="tcp:169905:82"/>a true hold of Chriſt, will make us let goe our hold of ſinne.</p>
+               <p>
+                  <hi>Obj.</hi> There is ſin in the beſt.</p>
+               <p>
+                  <hi>Anſ.</hi> Sinne in the faith<g ref="char:EOLhyphen"/>full is like an harlot bea<g ref="char:EOLhyphen"/>ten out of doores, which yet lies lingring in corners and out-roomes of the houſe, though deteſted and not endured in ſight; but ſin in unbeleevers is like an harlot harboured and maintained in the beſt roomes, and delighted in.</p>
+               <p>Faith makes us grudge ſinne any roome in this houſe of Chriſt, <hi>whoſe honſe are we. Heb.</hi> 3.6. and
+<pb n="152" facs="tcp:169905:83"/>this is Repentance.</p>
+               <p n="5">5. It will make one not content with thinking he hath it, but to be very de<g ref="char:EOLhyphen"/>ſirous, and take paines to be ſure and certaine he hath it. 2 <hi>Cor.</hi> 13.5.</p>
+               <p n="6">6. It will worke ſelfe<g ref="char:EOLhyphen"/>deniall in us; becauſe we have given our ſelves away to Chriſt now, (as the wife to her husband,) <hi>Rom.</hi> 7.4. 1 <hi>Pet.</hi> 4.2, 3. Selfe-deniall. Firſt, in re<g ref="char:EOLhyphen"/>gard of God, for having, doing, ſuffering as he will, and not as we would our ſelves; ſo <hi>Chriſt, Not as I will, but as thou wilt.</hi> Matt. 26.39. Secondly, in re<g ref="char:EOLhyphen"/>gard
+<pb n="153" facs="tcp:169905:83"/>of our neighbour (in and for God) <hi>Rom.</hi> 15.2. in
+<note n="*" place="margin">Col. 3.13.</note> forgiving, for bearing, not doing them the leaſt wrong, to doe our ſelves the greateſt benefit, ſee<g ref="char:EOLhyphen"/>king and heartily deſiring their good, as if it were our own, 1 <hi>Cor.</hi> 13.5. well requiting, though they ill<g ref="char:EOLhyphen"/>deſerving.</p>
+               <p n="7">7. A true Touch of Chriſt by Faith will draw vertue from him as <hi>Luk.</hi> 8.46. <hi>Matt.</hi> 14.36. as to the health of their Bo<g ref="char:EOLhyphen"/>dies, ſo will it for the Soul much more; and for the working of a Cure there<g ref="char:EOLhyphen"/>on, it drawes from Chriſt
+<pb n="154" facs="tcp:169905:84"/>the vertue of Holineſſe; and the cloſer we ſtick to him, the more ſhall we draw from him, as a plai<g ref="char:EOLhyphen"/>ſter, the cloſer it ſticks, the more it drawes.</p>
+               <p n="8">8. It makes us com<g ref="char:EOLhyphen"/>plaine of much want in our Faith, and weakneſſe in our Beleeving, out of a ſenſe of unbeliefe in us, as a burden to us, as <hi>Mark</hi> 9.24. <hi>Lord help my unbe<g ref="char:EOLhyphen"/>liefe.</hi>
+               </p>
+               <p n="9">9. It deſires more and more earneſtly the Fa<g ref="char:EOLhyphen"/>vour of God, and ſtill bet<g ref="char:EOLhyphen"/>ter Aſſurance of it, and therefore will make us:</p>
+               <p n="1">1. Not to favour our
+<pb n="155" facs="tcp:169905:84"/>ſelves ſo much in ſinne, which ſtands not with Gods Favour.</p>
+               <p n="2">2. Not to be contented in any proſperitie with<g ref="char:EOLhyphen"/>out it.</p>
+               <p n="10">10. To long more after the Sweetneſſe of Chriſt, as Lovers that are agreed and contracted, long for the Marriage day, and the perfecting of their loves: and as a Child that hath once taſted the ſweetneſſe of the bigg, hunts more earneſtly after it. Faith longs therfore for Chriſts comming. 2 <hi>Cor.</hi> 5.28. <hi>Cant.</hi> 8.14. <hi>Rev.</hi> 22.20.</p>
+               <p n="11">11. It expels worldli<g ref="char:EOLhyphen"/>neſſe
+<pb n="156" facs="tcp:169905:85"/>(from ruling in us) 1 <hi>Ioh.</hi> 5.4. with 2.16. <hi>Heb.</hi> 11.26. So as a true Belee<g ref="char:EOLhyphen"/>ver cannot be a world<g ref="char:EOLhyphen"/>ling (that is, to love worldly things more then Grace and Godlineſſe) no more then he can be a <hi>Iu<g ref="char:EOLhyphen"/>das;</hi> becauſe Faith findes All-ſufficiencie in Chriſt; as <hi>Iacob</hi> for his <hi>Ioſeph, Gen.</hi> 45.28. ſo the true Belee<g ref="char:EOLhyphen"/>ver for his <hi>Ieſus;</hi> he can be content to want all, ſo he have him.</p>
+               <p n="12">12. It exchades boaſt<g ref="char:EOLhyphen"/>ing of our gifts, good parts, good deeds; <hi>Rom.</hi> 3.27. For firſt, the more we perceive Gods mercie
+<pb n="157" facs="tcp:169905:85"/>and love to us; the more his Excellency and boun<g ref="char:EOLhyphen"/>tifulneſſe appeares, which will make us adore and reverence him in the more humilitie, as a great perſonage, the better he is knowne, the more he is honoured. Secondly, the more we comprehend his mercie and Favour, the more we apprehend our miſerie, ſtanding in need thereof; which will make us the more humble.</p>
+               <p n="13">13. It workes in us in<g ref="char:EOLhyphen"/>ward Spirituall Life, now Chriſt liveth in us, <hi>Gal.</hi> 2.20. and we in him, which may be knowne
+<pb n="158" facs="tcp:169905:86"/>(as the naturall life.)</p>
+               <p n="1">1. By the
+<note n="*" place="margin">Palpita<g ref="char:EOLhyphen"/>tio cordis.</note> working of the heart, panting after God, <hi>Pſal.</hi> 42.1. and by beating of the pulſes in our regular motions of conſtant endeavours, and Holy Obedience, <hi>Pſal.</hi> 50.23.</p>
+               <p n="2">2. By the Operation of the Senſes, <hi>Diſcerning good and evill</hi> (effectually) <hi>Heb.</hi> 5.14.</p>
+               <p n="3">3. By breathing a ſpiri<g ref="char:EOLhyphen"/>tuall and a ſweet breath of Grace. <hi>Eccl.</hi> 10.12. <hi>Col.</hi> 4.6.</p>
+               <p n="4">4. By the motion of hand and foot, which move to God and for God in all
+<pb n="159" facs="tcp:169905:86"/>holy Actions, contrary to the wicked mans ſpeak<g ref="char:EOLhyphen"/>ing with his feet, and in<g ref="char:EOLhyphen"/>ſtructing with his fingers, <hi>Prov.</hi> 6.13.</p>
+               <p n="14">14. It cannot abide, but driveth out Hypocriſie (which ſerves not God for love, but for by-ends) for hypocriſie is all in feigning, but Faith is un<g ref="char:EOLhyphen"/>fained, 2 <hi>Tim.</hi> 1.5. as con<g ref="char:EOLhyphen"/>trarie as light and dark<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p n="15">15. It will not let us make haſte, to uſe ill, or forbidden meanes to help our ſelves, <hi>Iſai.</hi> 28.16. <hi>Pſa.</hi> 40.1. as it kept <hi>David</hi> from killing of <hi>Saul,</hi> to
+<pb n="160" facs="tcp:169905:87"/>haſten into the Throne; for, beleeving in God will not make us goe away from God; as to haſten by evill meanes is to run away from him, and we muſt be faine to come backe againe by Repen<g ref="char:EOLhyphen"/>tance.</p>
+               <p n="16">16. True beleeving ob<g ref="char:EOLhyphen"/>taines what it beleeves, <hi>viz.</hi> things for preſent, in preſent, <hi>Mat.</hi> 8.13. Things to come, in their due time, <hi>Matth.</hi> 21.22. ſo the bene<g ref="char:EOLhyphen"/>fits of Chriſt, as delive<g ref="char:EOLhyphen"/>rance from the raigning power of ſinne, <hi>Rom.</hi> 6.14. Sanctification and Grace (as well as Salvation) de<g ref="char:EOLhyphen"/>pendance
+<pb n="161" facs="tcp:169905:87"/>on God, ſuffici<g ref="char:EOLhyphen"/>encie in him, patience, contentedneſs, &amp;c. which if it obtaine it's true, elſe falſe; for how ſhalt thou thinke thy beleeving thy Salvation ſhall bring thee that; when as thy belee<g ref="char:EOLhyphen"/>ving thy Sanctification doth not bring thee this? nay, no more the one then the other, as the one is falſe, ſo is the other; how ſhall thy Faith prove true for another world, when it proves falſe in this? But if thy beleeving thy San<g ref="char:EOLhyphen"/>ctificatio<g ref="char:cmbAbbrStroke">̄</g> brings thee this, the<g ref="char:cmbAbbrStroke">̄</g> as certainly thy belee<g ref="char:EOLhyphen"/>ving thy Salvation ſhall obtain that.</p>
+            </div>
+            <div n="17" type="chapter">
+               <pb n="162" facs="tcp:169905:88"/>
+               <head>CHAP. 17. <hi>The Degrees of ſaving Be<g ref="char:EOLhyphen"/>liefe.</hi>
+               </head>
+               <p>THere is a weake be<g ref="char:EOLhyphen"/>leeving and a ſtrong, Examples many in Scrip<g ref="char:EOLhyphen"/>ture of both, &amp; 1 <hi>Iob.</hi> 2.13. <hi>Children and ſtrong men.</hi> Weake</p>
+               <p n="1">1. In regard of know<g ref="char:EOLhyphen"/>ledge, for the Faith that ſees but dimly, beleeves but weakly in compari<g ref="char:EOLhyphen"/>ſon.</p>
+               <p n="2">2. In regard of Applica<g ref="char:EOLhyphen"/>tion, apprehending weak<g ref="char:EOLhyphen"/>ly, as a palſie hand, that receives a gift, but with much ſhaking.</p>
+               <pb n="163" facs="tcp:169905:88"/>
+               <p>There is alſo weak be<g ref="char:EOLhyphen"/>leeving,</p>
+               <p n="1">1. In thoſe that were never yet ſtrong as a Child, that after becomes a man.</p>
+               <p n="2">2. Sometimes in thoſe that have been ſtrong, but now fallen weake, as a ſtrong man weakned by ſome ſore ſickneſs; ſo <hi>Da<g ref="char:EOLhyphen"/>vid, Pſal.</hi> 27. &amp;c. with <hi>Bſa.</hi> 22.14. and ſo <hi>Peter.</hi>
+               </p>
+               <p>Strong Faith, ſome; but in regard of that which is weake, for elfe there is ſome want and weakneſſe in the ſtrongeſt Faith, ſomething <hi>lacking,</hi> 1 Theſ. 3.10. with <hi>Chap.</hi> 1.7, 8.</p>
+               <pb n="164" facs="tcp:169905:89"/>
+               <p>Things common to both, theſe are</p>
+               <p n="1">1. Sight and Senſe of our ſins driving us out of our ſelves.</p>
+               <p n="2">2. High-pricing of Chriſt, and hungring af<g ref="char:EOLhyphen"/>ter him, even whole Chriſt.</p>
+               <p n="3">3. Earneſt prayer, daily.</p>
+               <p n="4">4. Uſe of good meanes out of good affection thereto.</p>
+               <p n="5">5. Diſcerning and la<g ref="char:EOLhyphen"/>menting ſome unbeliefe in us, with deſire of ſtrengthening: It is nei<g ref="char:EOLhyphen"/>ther weak nor ſtrong, nor any true beleeving at all, that wants theſe things.</p>
+               <pb n="165" facs="tcp:169905:89"/>
+               <p>The difference between them is, weak Faith is,</p>
+               <p n="1">1. More troubled with quaking fears and doubt<g ref="char:EOLhyphen"/>ings.</p>
+               <p n="2">2. Sooner damped and diſcouraged when it is checked.</p>
+               <p n="3">3. Relyes more on ſee<g ref="char:EOLhyphen"/>ing and feeling, as it was with
+<note n="*" place="margin">Joh. 20.25.</note> 
+                  <hi>Thomas.</hi>
+               </p>
+               <p n="4">4. Hath leſſe Experi<g ref="char:EOLhyphen"/>ence, as it was with <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> at firſt.</p>
+               <p n="5">5. Is in more danger of ſinning, and ſo of ſorrow, and is put more to its ſhifts.</p>
+               <p>Strong Beliefe 1. Hath Knowne it ſelfe in former times
+<pb n="166" facs="tcp:169905:90"/>very weake and much weaker then now: as 1 <hi>Cor.</hi> 13.11.</p>
+               <p n="2">2. Is fuller of Courage for God, as was <hi>Nehemiah Chap.</hi> 6.11.</p>
+               <p n="3">3. More conſtant in the holy courſe, as
+<note n="*" place="margin">2 Sam. 6.22.</note> 
+                  <hi>David</hi> being mocked by <hi>Michal.</hi>
+               </p>
+               <p n="4">4. Hath a more un<g ref="char:EOLhyphen"/>daunted apprehenſion of death, as <hi>Paul, Act.</hi> 21.13.</p>
+               <p n="5">5. It makes one of ſtrength and abilitie to beget other Chriſtians, as a man growne.</p>
+               <p>If thy Faith be weake:</p>
+               <p n="1">1. Slight it not, for Good-will from God is in it, (a ſmall gift of a ve<g ref="char:EOLhyphen"/>ry
+<pb n="167" facs="tcp:169905:90"/>friend muſt not be ſlighted) yea, a bleſſing is in it.</p>
+               <p n="2">2. Be thankfull and ac<g ref="char:EOLhyphen"/>knowledge it, it's the way to have more, and as ſmall as it is, it is more then thou canſt be thankfull enough for.</p>
+               <p n="3">3. Reſt not in it, but get more, as one that hath weak diet, defence againſt danger, evidence for land, reſteth not ſatisfied, but labours to be better pro<g ref="char:EOLhyphen"/>vided.</p>
+               <p>
+                  <hi>Object.</hi> Weak Beleeving will ſave me, if it be true.</p>
+               <p>
+                  <hi>Anſ.</hi> True; but with more difficultie and diſ<g ref="char:EOLhyphen"/>comfort,
+<pb n="168" facs="tcp:169905:91"/>as a crazie, or lea<g ref="char:EOLhyphen"/>king veſſell, that with much adoe makes ſhift to get to ſhore, and that is all; but what feare and diſheartment in the meane time?</p>
+               <p>If thy Faith be ſtrong,</p>
+               <p n="1">1. Be not high-minded, but more humble, for thou art the more indeb<g ref="char:EOLhyphen"/>ted to God, and the ſtron<g ref="char:EOLhyphen"/>geſt may take a fall, and become weak as a Child; as a luſtie man with a bruiſe by a Fall, may goe halting to his grave.</p>
+               <p n="2">2. Deſpiſe not weake Beleevers, but beare with them, yea, beare them in
+<pb n="169" facs="tcp:169905:91"/>your armes. <hi>Rom.</hi> 15.1. uſe them tenderly, as men do with their weaker lambs, bring them home, and lap them up: and as a ſtrong man doth not ſcorne a lit<g ref="char:EOLhyphen"/>tle child, or kick it up and downe, becauſe its a weak thing; but dandles it in his lap.</p>
+            </div>
+            <div n="18" type="chapter">
+               <head>CHAP. 18. <hi>What we must doe with ſa<g ref="char:EOLhyphen"/>ving Beliefe, when we have it.</hi>
+               </head>
+               <p>WE muſt be very carefull to uſe it well, when we have got<g ref="char:EOLhyphen"/>ten it, and that thus:</p>
+               <p n="1">
+                  <pb n="170" facs="tcp:169905:92"/>1. Setting great ſtore by it, not to blow it away at every word, nor pawne it for every Trifle, as it is too uſuall a Cuſtome.</p>
+               <p n="2">2. Be very charie of it, not to wrong it in any kind; as Parents are ten<g ref="char:EOLhyphen"/>der and doile of their on<g ref="char:EOLhyphen"/>ly Darling.</p>
+               <p n="3">3. Allow it good kee<g ref="char:EOLhyphen"/>ping, as an husband that hath all his meanes by his wife, will be carefull of her, and keepe her well: We muſt keep it as our life.</p>
+               <p>
+                  <hi>Queſt.</hi> How muſt Faith be well kept?</p>
+               <p>
+                  <hi>Anſ.</hi> Thus:</p>
+               <p n="1">
+                  <pb n="171" facs="tcp:169905:92"/>1. It muſt be fed with holy meanes, Word and Sacraments, for as the body, if it want food a<g ref="char:EOLhyphen"/>while, growes weake and faint, ſo ſurely will Faith, if it want its ſpirituall Feeding: yea, it muſt be fed with the Word of God every day, ſpecially, that proviſion we made at Gods Market in his publike Ordinance the laſt time, which we muſt by daily meditation and practiſe feed on, till new Supply come, hereby our <hi>Soule ſhall be ſatisfied as with marrow and fatneſse,</hi> Pſal. 63.5.</p>
+               <pb n="172" facs="tcp:169905:93"/>
+               <p>More principally our Faith muſt be fed with the Promiſes, and that every day; for which pur<g ref="char:EOLhyphen"/>poſe, we muſt get a good ſtock and ſtore of Promi<g ref="char:EOLhyphen"/>ſes, both concerning tem<g ref="char:EOLhyphen"/>porall things, and this preſent life; as alſo ſpiri<g ref="char:EOLhyphen"/>tuall and eternall life, as the Book of God, like a rich Treaſure, is full of both ſorts.</p>
+               <p>Theſe I counſell every good Chriſtian to cull out and get by heart, as he meets with them, to ſtand him in ſtead upon every Occaſion, that he may be able to bring forth a ſpe<g ref="char:EOLhyphen"/>ciall
+<pb n="173" facs="tcp:169905:93"/>Promiſe to comfort his heart, and cheere his Faith, at all times, what<g ref="char:EOLhyphen"/>ſoever Occaſion happen; Oh, that more would be perſwaded hereto, thus to doe; they that have done ſo, have found by Experi<g ref="char:EOLhyphen"/>ence how good it is, and that a Promiſe ſometimes hath been better to them then all their Friends. Make a beginning then, get ſome principall Pro<g ref="char:EOLhyphen"/>miſes by heart, &amp; though your ſtocke be ſmall to begin with, yet increaſe it, by gathering and adding ſtill more to it, and ſo make uſe of any Promiſe,
+<pb n="174" facs="tcp:169905:94"/>as each Occaſion ſhall re<g ref="char:EOLhyphen"/>quire, you ſhall finde it a very great maintainer of Faith, and to keepe it in excellent thriving caſe; Trie, and you will ſay ſo.</p>
+               <p n="2">2. Joyne good works to your Faith, they that <hi>beleeve in God muſt be care<g ref="char:EOLhyphen"/>full to maintain good works. Tit.</hi> 3.8. Theſe ſtrengthen Faith; as Children begot<g ref="char:EOLhyphen"/>ten and brought up by their parents at length are able to defend and main<g ref="char:EOLhyphen"/>taine them, and become a ſtay unto them.</p>
+               <p n="3">3. Experience is a great helpe to Faiths good kee<g ref="char:EOLhyphen"/>ping, as <hi>Davids</hi> Lion and
+<pb n="175" facs="tcp:169905:94"/>Beare ſtood his Faith in great ſtead, when he had to doe with <hi>Goliah:</hi> Make uſe of your former Expe<g ref="char:EOLhyphen"/>rience you have had of Gods dealing with you. <hi>Pſal.</hi> 77.5, 6.</p>
+               <p n="4">4. Examples of others that have beleeved, and how well they have ſped, muſt be much thought on, <hi>Our fathers truſted in thee,</hi> (ſaith <hi>David</hi>) <hi>and thou deliveredſt them. Pſal.</hi> 22.4, 5.</p>
+               <p>Yea, the weak Belee<g ref="char:EOLhyphen"/>ving of ſome, and how they have overcome, it may hearten us much this way; One ſaith, THOMAS
+<pb n="176" facs="tcp:169905:95"/>
+                  <hi>his doubting hath done me more good then</hi> MARIES <hi>ready beleeving.</hi>
+                  <note place="margin">
+                     <hi>Plus mihi proſuit du<g ref="char:EOLhyphen"/>bitatio Thomae quàm cre<g ref="char:EOLhyphen"/>dulitas Mariae.</hi> Gre. Mag.</note>
+               </p>
+               <p n="5">5. Keepe a good Con<g ref="char:EOLhyphen"/>ſcience, which is a great nouriſher of Faith, and Nurſe unto it. 1 <hi>Tim.</hi> 1.19.</p>
+            </div>
+            <div n="19" type="chapter">
+               <head>CHAP. 19. <hi>What we muſt doe when it is wanting, and more of it deſired: with Exhortati<g ref="char:EOLhyphen"/>on to all.</hi>
+               </head>
+               <p n="1">1. LET every one for himſelfe apply him<g ref="char:EOLhyphen"/>ſelfe unto the meanes and manner of working there<g ref="char:EOLhyphen"/>of, ſhewed in the begin<g ref="char:EOLhyphen"/>ning of this Treatiſe
+<pb n="177" facs="tcp:169905:95"/>with a yeeldable heart: eſpecially attend upon Gods Ordinance the Mi<g ref="char:EOLhyphen"/>niſtery of the Word.</p>
+               <p n="1">1. Acknowledge Gods
+<note n="*" place="margin">1 Cor. 3.4.</note> Miniſters his Inſtru<g ref="char:EOLhyphen"/>ments for it, yea being well perſwaded, they are the parties God hath ap<g ref="char:EOLhyphen"/>pointed (eſpecially your owne faithfull Paſtour) purpoſely to work Faith, or more of it in you.</p>
+               <p n="2">2. Acquaint them how it is with you for belee<g ref="char:EOLhyphen"/>ving, as <hi>Act.</hi> 8.37.</p>
+               <p n="3">3.
+<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Cor. 16.16.</note> Put your ſelfe into their hands, to be ordered by them (having more skill then your ſelfe) con<g ref="char:EOLhyphen"/>cerning
+<pb n="178" facs="tcp:169905:96"/>your Beleeving, and how to doe therein; as a ſick patient puts him<g ref="char:EOLhyphen"/>ſelfe into his Phyſicians hands for his body.</p>
+               <p>And thus lye waiting at the poole of Betheſda for the ſtirring of the water by divine power.</p>
+               <p n="2">2. Let every one ende<g ref="char:EOLhyphen"/>vour the bringing of others alſo to beleeve. <hi>Ioh.</hi> 4.29. and Joy therein, <hi>Act.</hi> 15.3. We account it a good and bleſſed worke to helpe one into this, though a miſerable ſinfull world; and there<g ref="char:EOLhyphen"/>fore every one thinkes himſelfe beholding to the
+<pb n="179" facs="tcp:169905:96"/>Midwife; how much bet<g ref="char:EOLhyphen"/>ter work is it, to help one into that other moſt hap<g ref="char:EOLhyphen"/>pie and bleſſed world by beleeving?</p>
+               <p>To conclude; let my Counſell be acceptable to three ſorts of people.</p>
+               <p n="1">1. To thoſe that were never humbled; Conſider if your breath were but gone, you were in Hell; Be content therefore to ſuffer the paine of a bro<g ref="char:EOLhyphen"/>ken heart (and to be cut to the heart, as <hi>Act.</hi> 2.37. now) rather then torment in hell for ever: as we ſee ſome are perſwaded
+<pb n="180" facs="tcp:169905:97"/>to be cut for the Stone, or ſearched of a wound, which elſe will coſt them their life, and will not you be perſwaded to endure this for your Soule?</p>
+               <p n="2">2. To thoſe that are, or have been rightly hum<g ref="char:EOLhyphen"/>bled I ſay; to beleeve is to betake our ſelves to a ſafe place, as the uſuall
+<note n="*" place="margin">Chaſab.</note> 
+                  <hi>Hebrew</hi> word ſignifies, and as <hi>David</hi> did, <hi>Pſal.</hi> 57.1. Therefore fly with all ſpeed to Chriſt, as the Citie of Refuge, to get in<g ref="char:EOLhyphen"/>to him. For if death, the Avenger of bloud over<g ref="char:EOLhyphen"/>take you firſt, you are un<g ref="char:EOLhyphen"/>done for ever. And know
+<pb n="181" facs="tcp:169905:97"/>that when the diſtreſſed Soule, ſeeing its ſelfe pur<g ref="char:EOLhyphen"/>ſued with ſinne and ſpiri<g ref="char:EOLhyphen"/>tuall dangers, feares and flies out of its ſelfe to Chriſt, deſiring to be ſheltered under him, it is ſure and ſafe.</p>
+               <p>
+                  <hi>Object.</hi> But will not he refuſe it?</p>
+               <p>
+                  <hi>Anſ.</hi> No. <hi>Ioh.</hi> 6.37. <hi>Pſal.</hi> 9.9, 10. figured by the Citie of Refuge, to which the man-ſlayer flying for ſafetie, could not be kept out.</p>
+               <p n="2">2 <hi>Object.</hi> May not an Hypocrite do ſo much?</p>
+               <p>
+                  <hi>Anſ.</hi> No: he onely dreames of comming to
+<pb n="182" facs="tcp:169905:98"/>Chriſt, but doth not ſo indeed; or elſe makes ſome flouriſh of com<g ref="char:EOLhyphen"/>ming, but comes not home to Chriſt.</p>
+               <p n="3">3. To thoſe that be<g ref="char:EOLhyphen"/>leeve in truth; I ſay, <hi>Cast not away your confidence, which hath great recom<g ref="char:EOLhyphen"/>pence of reward. Heb.</hi> 10.35. Holy Confidence is like a Garment which the Soule wraps it ſelfe in; the fleſh and world goe about ſubtilly to ſteale it from us, but the devill with his terrible blaſts of Temptation, to make us let goe, or looſen our hold at leaſt: but God
+<pb n="183" facs="tcp:169905:98"/>bids us hold faſt, for elſe the poore Soule will be naked and deſtitute. Hold faſt therefore what you have. <hi>Rev.</hi> 3.11. Goe on in this your Strength, you Saints of God; and the Lord be with you, and ſend you good ſpeed to Hea<g ref="char:EOLhyphen"/>ven.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
